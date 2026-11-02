@@ -1,0 +1,3087 @@
+{
+  "filamentSEKPerKg": 400,
+  "margin": 0.5,
+  "electricitySEKPerOrder": 20,
+  "unit": "En hel uppsättning av vald profil, alla plattor",
+  "weights": "MakerWorlds beräknade filamentåtgång, inte uppvägd färdig produkt",
+  "products": [
+    {
+      "sku": "H-101",
+      "product": "Cosmetic organizer, Make-up organizer",
+      "profile": "Cosmetic Organizer",
+      "profileUrl": "https://makerworld.com/en/models/2195350-cosmetic-organizer-make-up-organizer#profileId-2384050",
+      "plates": 5,
+      "displayedTotal": "545 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 176.0
+        },
+        {
+          "material": "PLA",
+          "grams": 369.0
+        }
+      ],
+      "weightGrams": 545.0,
+      "materialCostSEK": 218.0,
+      "salesPriceSEK": 436.0,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "H-102",
+      "product": "Office Desk Organizer",
+      "profile": "0.28mm layer, 2 walls, 5% infill",
+      "profileUrl": "https://makerworld.com/en/models/1313992-office-desk-organizer#profileId-1348757",
+      "plates": 1,
+      "displayedTotal": "199 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 199.0
+        }
+      ],
+      "weightGrams": 199.0,
+      "materialCostSEK": 79.6,
+      "salesPriceSEK": 159.2,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "H-103",
+      "product": "The Ultimate Parametric Drawer Organizer System",
+      "profile": "0.2mm layer, 2 walls, 15% infill",
+      "profileUrl": "https://makerworld.com/en/models/2098816-the-ultimate-parametric-drawer-organizer-system#profileId-2269540",
+      "plates": 1,
+      "displayedTotal": "63 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 63.0
+        }
+      ],
+      "weightGrams": 63.0,
+      "materialCostSEK": 25.2,
+      "salesPriceSEK": 50.4,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "H-104",
+      "product": "Modern Japandi Desk Organizer (2 versions, NO-AMS)",
+      "profile": "0.2mm layer, 2 walls, 15% infill",
+      "profileUrl": "https://makerworld.com/en/models/1566380-modern-japandi-desk-organizer-2-versions-no-ams#profileId-1646733",
+      "plates": 3,
+      "displayedTotal": "301 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 301.0
+        }
+      ],
+      "weightGrams": 301.0,
+      "materialCostSEK": 120.4,
+      "salesPriceSEK": 240.8,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "H-105",
+      "product": "Beauty Cosmetic Modular Organizer",
+      "profile": "Beauty Organizer",
+      "profileUrl": "https://makerworld.com/en/models/2417665-beauty-cosmetic-modular-organizer#profileId-2651205",
+      "plates": 1,
+      "displayedTotal": "265 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 265.0
+        }
+      ],
+      "weightGrams": 265.0,
+      "materialCostSEK": 106.0,
+      "salesPriceSEK": 212.0,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "H-106",
+      "product": "Module ⬝ Desk Organizer",
+      "profile": "Module ⬝ Desk Organizer",
+      "profileUrl": "https://makerworld.com/en/models/3043752-module-desk-organizer#profileId-3423024",
+      "plates": 17,
+      "displayedTotal": "2.1 kg",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 243.0
+        },
+        {
+          "material": "PLA",
+          "grams": 1841.0
+        }
+      ],
+      "weightGrams": 2084.0,
+      "materialCostSEK": 833.6,
+      "salesPriceSEK": 1667.2,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "H-107",
+      "product": "Office Desk Organizer with Integrated Phone Holder",
+      "profile": "0.2mm layer, 3 walls, 15% infill",
+      "profileUrl": "https://makerworld.com/en/models/1726061-office-desk-organizer-with-integrated-phone-holder#profileId-1832704",
+      "plates": 2,
+      "displayedTotal": "270 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 270.0
+        }
+      ],
+      "weightGrams": 270.0,
+      "materialCostSEK": 108.0,
+      "salesPriceSEK": 216.0,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "H-108",
+      "product": "Grain Desk Organizer",
+      "profile": "0.2mm layer, 2 walls, 7% infill",
+      "profileUrl": "https://makerworld.com/en/models/2337123-grain-desk-organizer#profileId-2554458",
+      "plates": 1,
+      "displayedTotal": "164 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 164.0
+        }
+      ],
+      "weightGrams": 164.0,
+      "materialCostSEK": 65.6,
+      "salesPriceSEK": 131.2,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "H-109",
+      "product": "Minimalist Entryway Organizer",
+      "profile": "0.16mm layer, 2 walls, 15% infill",
+      "profileUrl": "https://makerworld.com/en/models/2986713-minimalist-entryway-organizer#profileId-3351566",
+      "plates": 1,
+      "displayedTotal": "268 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 268.0
+        }
+      ],
+      "weightGrams": 268.0,
+      "materialCostSEK": 107.2,
+      "salesPriceSEK": 214.4,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "H-110",
+      "product": "Desk Organizer with Pen Holder & Tray",
+      "profile": "0.24mm layer, 2 walls, 5% infill",
+      "profileUrl": "https://makerworld.com/en/models/2342069-desk-organizer-with-pen-holder-tray#profileId-2560143",
+      "plates": 1,
+      "displayedTotal": "178 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 178.0
+        }
+      ],
+      "weightGrams": 178.0,
+      "materialCostSEK": 71.2,
+      "salesPriceSEK": 142.4,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "H-111",
+      "product": "Lovely Heart-Shaped Makeup & Desk Organizer",
+      "profile": "V2 Enhanced - more authentic heart-shaped look",
+      "profileUrl": "https://makerworld.com/en/models/2233514-lovely-heart-shaped-makeup-desk-organizer#profileId-3532762",
+      "plates": 1,
+      "displayedTotal": "146 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 146.0
+        }
+      ],
+      "weightGrams": 146.0,
+      "materialCostSEK": 58.4,
+      "salesPriceSEK": 116.8,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "H-112",
+      "product": "BUCKETS MINI's - Stackable Organizer - no support",
+      "profile": "0.2mm layer, 2 walls, 5% infill",
+      "profileUrl": "https://makerworld.com/en/models/2253348-buckets-mini-s-stackable-organizer-no-support#profileId-2454251",
+      "plates": 4,
+      "displayedTotal": "261 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 47.0
+        },
+        {
+          "material": "PLA",
+          "grams": 214.0
+        }
+      ],
+      "weightGrams": 261.0,
+      "materialCostSEK": 104.4,
+      "salesPriceSEK": 208.8,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "H-113",
+      "product": "Post-it Desk Organizer",
+      "profile": "0.2mm layer, 2 walls, 5% infill",
+      "profileUrl": "https://makerworld.com/en/models/1333643-post-it-desk-organizer#profileId-1372516",
+      "plates": 1,
+      "displayedTotal": "88 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 88.0
+        }
+      ],
+      "weightGrams": 88.0,
+      "materialCostSEK": 35.2,
+      "salesPriceSEK": 70.4,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "H-114",
+      "product": "6-Drawer Desk Organizer — Tall Drawer Edition",
+      "profile": "Desk organizer 3x2 Tall V1",
+      "profileUrl": "https://makerworld.com/en/models/2038436-6-drawer-desk-organizer-tall-drawer-edition#profileId-2199022",
+      "plates": 3,
+      "displayedTotal": "424 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 424.0
+        }
+      ],
+      "weightGrams": 424.0,
+      "materialCostSEK": 169.6,
+      "salesPriceSEK": 339.2,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "H-115",
+      "product": "Stackable Desktop Organizer – clean & modular",
+      "profile": "Small Drawers",
+      "profileUrl": "https://makerworld.com/en/models/2734467-stackable-desktop-organizer-clean-modular#profileId-3031250",
+      "plates": 8,
+      "displayedTotal": "1.2 kg",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 1224.0
+        }
+      ],
+      "weightGrams": 1224.0,
+      "materialCostSEK": 489.6,
+      "salesPriceSEK": 979.2,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "H-116",
+      "product": "Workshop / Desk Organizer / Stackable / 3 Sizes",
+      "profile": "A1/P1/X1- Big Size - NO OVERHANG",
+      "profileUrl": "https://makerworld.com/en/models/919813-workshop-desk-organizer-stackable-3-sizes#profileId-881756",
+      "plates": 3,
+      "displayedTotal": "688 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 277.0
+        },
+        {
+          "material": "PLA",
+          "grams": 411.0
+        }
+      ],
+      "weightGrams": 688.0,
+      "materialCostSEK": 275.2,
+      "salesPriceSEK": 550.4,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "H-117",
+      "product": "Ultimate Minimal  Self-Draining Bathroom Vanity",
+      "profile": "0.2mm layer, 2 walls, 15% infill",
+      "profileUrl": "https://makerworld.com/en/models/2094889-ultimate-minimal-self-draining-bathroom-vanity#profileId-2264934",
+      "plates": 2,
+      "displayedTotal": "472 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 472.0
+        }
+      ],
+      "weightGrams": 472.0,
+      "materialCostSEK": 188.8,
+      "salesPriceSEK": 377.6,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "H-118",
+      "product": "Modular Desk Organizer & Tool Tower",
+      "profile": "0.2mm layer, 2 walls, 15% infill",
+      "profileUrl": "https://makerworld.com/en/models/1835209-modular-desk-organizer-tool-tower#profileId-2397449",
+      "plates": 3,
+      "displayedTotal": "484 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 484.0
+        }
+      ],
+      "weightGrams": 484.0,
+      "materialCostSEK": 193.6,
+      "salesPriceSEK": 387.2,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "H-119",
+      "product": "Desk Paper Organizer - Letter+A4 / A5 / 12x12",
+      "profile": "A4/LETTER 5F portrait V2",
+      "profileUrl": "https://makerworld.com/en/models/1647352-desk-paper-organizer-letter-a4-a5-12x12#profileId-1741215",
+      "plates": 12,
+      "displayedTotal": "907 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 907.0
+        }
+      ],
+      "weightGrams": 907.0,
+      "materialCostSEK": 362.8,
+      "salesPriceSEK": 725.6,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "H-120",
+      "product": "Mini School Locker – 3D Printed Desk Organizer",
+      "profile": "2 color 0.2mm layer, 2 walls, 15% infill",
+      "profileUrl": "https://makerworld.com/en/models/2724278-mini-school-locker-3d-printed-desk-organizer#profileId-3018365",
+      "plates": 4,
+      "displayedTotal": "558 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 551.0
+        },
+        {
+          "material": "PLA",
+          "grams": 7.0
+        }
+      ],
+      "weightGrams": 558.0,
+      "materialCostSEK": 223.2,
+      "salesPriceSEK": 446.4,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "H-121",
+      "product": "Kitchen Organizer with Cloth Holder (Sink Rack)",
+      "profile": "Default Design",
+      "profileUrl": "https://makerworld.com/en/models/2458143-kitchen-organizer-with-cloth-holder-sink-rack#profileId-2698862",
+      "plates": 1,
+      "displayedTotal": "168 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 168.0
+        }
+      ],
+      "weightGrams": 168.0,
+      "materialCostSEK": 67.2,
+      "salesPriceSEK": 134.4,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "H-122",
+      "product": "Kumiko Desk Organizer",
+      "profile": "Body",
+      "profileUrl": "https://makerworld.com/en/models/1288105-kumiko-desk-organizer#profileId-1317726",
+      "plates": 1,
+      "displayedTotal": "137 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 137.0
+        }
+      ],
+      "weightGrams": 137.0,
+      "materialCostSEK": 54.8,
+      "salesPriceSEK": 109.6,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "H-123",
+      "product": "Shoe Organizer With Pull Tab.",
+      "profile": "P1 X1 A1 Grooves added",
+      "profileUrl": "https://makerworld.com/en/models/1024791-shoe-organizer-with-pull-tab#profileId-1020642",
+      "plates": 1,
+      "displayedTotal": "104 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 104.0
+        }
+      ],
+      "weightGrams": 104.0,
+      "materialCostSEK": 41.6,
+      "salesPriceSEK": 83.2,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "H-124",
+      "product": "Modern Ribbed Bathroom Organizer, Make- Up Cup",
+      "profile": "0.24mm layer, 2 walls, 10% infill",
+      "profileUrl": "https://makerworld.com/en/models/1446350-modern-ribbed-bathroom-organizer-make-up-cup#profileId-1506154",
+      "plates": 1,
+      "displayedTotal": "231 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 231.0
+        }
+      ],
+      "weightGrams": 231.0,
+      "materialCostSEK": 92.4,
+      "salesPriceSEK": 184.8,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "H-125",
+      "product": "Under-Shelf Organizer - Small Version",
+      "profile": "25mm Version Open, Under-Shelf Organizer-Small",
+      "profileUrl": "https://makerworld.com/en/models/1962101-under-shelf-organizer-small-version#profileId-2109094",
+      "plates": 1,
+      "displayedTotal": "153 g",
+      "filaments": [
+        {
+          "material": "PETG",
+          "grams": 153.0
+        }
+      ],
+      "weightGrams": 153.0,
+      "materialCostSEK": 61.2,
+      "salesPriceSEK": 122.4,
+      "needsPlaCheck": true
+    },
+    {
+      "sku": "H-126",
+      "product": "Sink Organizer with Cloth Holder (Kitchen Rack)",
+      "profile": "Gitter 0.2mm layer, 2 walls, 5% infill",
+      "profileUrl": "https://makerworld.com/en/models/2341207-sink-organizer-with-cloth-holder-kitchen-rack#profileId-2575519",
+      "plates": 2,
+      "displayedTotal": "204 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 204.0
+        }
+      ],
+      "weightGrams": 204.0,
+      "materialCostSEK": 81.6,
+      "salesPriceSEK": 163.2,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "H-127",
+      "product": "Spinning Desk Organizer",
+      "profile": "0.2mm layer, 2 walls, 15% infill",
+      "profileUrl": "https://makerworld.com/en/models/1828747-spinning-desk-organizer#profileId-1952544",
+      "plates": 2,
+      "displayedTotal": "370 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 294.0
+        },
+        {
+          "material": "PLA",
+          "grams": 76.0
+        }
+      ],
+      "weightGrams": 370.0,
+      "materialCostSEK": 148.0,
+      "salesPriceSEK": 296.0,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "H-128",
+      "product": "Modular Stackable Corner Storage Ventilated",
+      "profile": "0.2mm layer, 2 walls, 10% infill",
+      "profileUrl": "https://makerworld.com/en/models/2075071-modular-stackable-corner-storage-ventilated#profileId-2241595",
+      "plates": 1,
+      "displayedTotal": "377 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 377.0
+        }
+      ],
+      "weightGrams": 377.0,
+      "materialCostSEK": 150.8,
+      "salesPriceSEK": 301.6,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "H-129",
+      "product": "Poly-Desk Organizer",
+      "profile": "Poly-Desk Organizer",
+      "profileUrl": "https://makerworld.com/en/models/1820511-poly-desk-organizer#profileId-1943199",
+      "plates": 6,
+      "displayedTotal": "752 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 203.0
+        },
+        {
+          "material": "PLA",
+          "grams": 230.0
+        },
+        {
+          "material": "PLA",
+          "grams": 319.0
+        }
+      ],
+      "weightGrams": 752.0,
+      "materialCostSEK": 300.8,
+      "salesPriceSEK": 601.6,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "H-130",
+      "product": "Kitchen Utensil Organizer",
+      "profile": "0.2mm layer, 3 walls, 15% infill",
+      "profileUrl": "https://makerworld.com/en/models/1270074-kitchen-utensil-organizer#profileId-1329884",
+      "plates": 1,
+      "displayedTotal": "174 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 174.0
+        }
+      ],
+      "weightGrams": 174.0,
+      "materialCostSEK": 69.6,
+      "salesPriceSEK": 139.2,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "H-131",
+      "product": "Stackable Shelf Organizer",
+      "profile": "Standard Tray",
+      "profileUrl": "https://makerworld.com/en/models/426986-stackable-shelf-organizer#profileId-330940",
+      "plates": 1,
+      "displayedTotal": "45 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 45.0
+        }
+      ],
+      "weightGrams": 45.0,
+      "materialCostSEK": 18.0,
+      "salesPriceSEK": 36.0,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "H-132",
+      "product": "Modern Bathroom Caddy Organizer",
+      "profile": "ams color change 0.2mm layer, 2 walls, 5% infill",
+      "profileUrl": "https://makerworld.com/en/models/2705954-modern-bathroom-caddy-organizer#profileId-2999250",
+      "plates": 1,
+      "displayedTotal": "284 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 122.0
+        },
+        {
+          "material": "PLA",
+          "grams": 162.0
+        }
+      ],
+      "weightGrams": 284.0,
+      "materialCostSEK": 113.6,
+      "salesPriceSEK": 227.2,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "H-133",
+      "product": "Stackabowls",
+      "profile": "0.2mm layer, 2 walls, 5% infill",
+      "profileUrl": "https://makerworld.com/en/models/1764110-stackabowls#profileId-1877123",
+      "plates": 1,
+      "displayedTotal": "257 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 257.0
+        }
+      ],
+      "weightGrams": 257.0,
+      "materialCostSEK": 102.8,
+      "salesPriceSEK": 205.6,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "H-134",
+      "product": "Rotatable Makeup & Storage Organizer",
+      "profile": "0.2mm layer, 2 walls, 10% infill",
+      "profileUrl": "https://makerworld.com/en/models/1964754-rotatable-makeup-storage-organizer#profileId-2112260",
+      "plates": 3,
+      "displayedTotal": "369 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 222.0
+        },
+        {
+          "material": "PLA",
+          "grams": 147.0
+        }
+      ],
+      "weightGrams": 369.0,
+      "materialCostSEK": 147.6,
+      "salesPriceSEK": 295.2,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "H-135",
+      "product": "Ribbed Design Office Organizer",
+      "profile": "0.28mm layer, 2 walls, 5% infill",
+      "profileUrl": "https://makerworld.com/en/models/651544-ribbed-design-office-organizer#profileId-578607",
+      "plates": 1,
+      "displayedTotal": "125 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 125.0
+        }
+      ],
+      "weightGrams": 125.0,
+      "materialCostSEK": 50.0,
+      "salesPriceSEK": 100.0,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "H-136",
+      "product": "Cable Organizer - One-Sided Winding",
+      "profile": "0.2mm layer, 2 walls, 15% infill",
+      "profileUrl": "https://makerworld.com/en/models/778587-cable-organizer-one-sided-winding#profileId-715469",
+      "plates": 2,
+      "displayedTotal": "98 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 98.0
+        }
+      ],
+      "weightGrams": 98.0,
+      "materialCostSEK": 39.2,
+      "salesPriceSEK": 78.4,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "H-137",
+      "product": "Desk Organizer",
+      "profile": "0.2mm layer, 2 walls, 10% infill",
+      "profileUrl": "https://makerworld.com/en/models/752524-desk-organizer#profileId-686417",
+      "plates": 1,
+      "displayedTotal": "80 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 80.0
+        }
+      ],
+      "weightGrams": 80.0,
+      "materialCostSEK": 32.0,
+      "salesPriceSEK": 64.0,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "H-138",
+      "product": "Kumiko Design Desk Organizer",
+      "profile": "0.2mm layer, 3 walls, 10% infill",
+      "profileUrl": "https://makerworld.com/en/models/1275973-kumiko-design-desk-organizer#profileId-1303838",
+      "plates": 4,
+      "displayedTotal": "478 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 117.0
+        },
+        {
+          "material": "PLA",
+          "grams": 361.0
+        }
+      ],
+      "weightGrams": 478.0,
+      "materialCostSEK": 191.2,
+      "salesPriceSEK": 382.4,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "H-139",
+      "product": "Modular Corner Organizer  Bathroom  Kitchen Office",
+      "profile": "With stacking pin",
+      "profileUrl": "https://makerworld.com/en/models/2064110-modular-corner-organizer-bathroom-kitchen-office#profileId-2228869",
+      "plates": 1,
+      "displayedTotal": "225 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 225.0
+        }
+      ],
+      "weightGrams": 225.0,
+      "materialCostSEK": 90.0,
+      "salesPriceSEK": 180.0,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "H-140",
+      "product": "Modular Desk Organizer System|MagSafe Phone Stand",
+      "profile": "Desk Organizer (Extended Set)",
+      "profileUrl": "https://makerworld.com/en/models/2087511-modular-desk-organizer-system-magsafe-phone-stand#profileId-2256241",
+      "plates": 3,
+      "displayedTotal": "309 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 309.0
+        }
+      ],
+      "weightGrams": 309.0,
+      "materialCostSEK": 123.6,
+      "salesPriceSEK": 247.2,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "H-141",
+      "product": "Modular Belt Organizer - Versatile Belt Storage",
+      "profile": "Belt Organizer Holder",
+      "profileUrl": "https://makerworld.com/en/models/1284791-modular-belt-organizer-versatile-belt-storage#profileId-1313673",
+      "plates": 1,
+      "displayedTotal": "86 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 86.0
+        }
+      ],
+      "weightGrams": 86.0,
+      "materialCostSEK": 34.4,
+      "salesPriceSEK": 68.8,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "H-142",
+      "product": "360-Degree Rotating Jewelry Storage",
+      "profile": "0.2mm layer, 3 walls, 15% infill",
+      "profileUrl": "https://makerworld.com/en/models/1400493-360-degree-rotating-jewelry-storage#profileId-1452297",
+      "plates": 5,
+      "displayedTotal": "166 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 166.0
+        }
+      ],
+      "weightGrams": 166.0,
+      "materialCostSEK": 66.4,
+      "salesPriceSEK": 132.8,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "H-143",
+      "product": "Biscuit Cable Organizer",
+      "profile": "Large_Biscuit",
+      "profileUrl": "https://makerworld.com/en/models/2591383-biscuit-cable-organizer#profileId-2862055",
+      "plates": 1,
+      "displayedTotal": "26 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 26.0
+        }
+      ],
+      "weightGrams": 26.0,
+      "materialCostSEK": 10.4,
+      "salesPriceSEK": 20.8,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "H-144",
+      "product": "Aesthetic Quilted Desk Organizer Brush Holder",
+      "profile": "0.16mm layer, 2 walls, 10% infill",
+      "profileUrl": "https://makerworld.com/en/models/2168938-aesthetic-quilted-desk-organizer-brush-holder#profileId-2352176",
+      "plates": 1,
+      "displayedTotal": "101 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 101.0
+        }
+      ],
+      "weightGrams": 101.0,
+      "materialCostSEK": 40.4,
+      "salesPriceSEK": 80.8,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "H-145",
+      "product": "Cable Organizer",
+      "profile": "0.2mm layer, 2 walls, 5% infill",
+      "profileUrl": "https://makerworld.com/en/models/1662375-cable-organizer#profileId-1758738",
+      "plates": 6,
+      "displayedTotal": "441 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 441.0
+        }
+      ],
+      "weightGrams": 441.0,
+      "materialCostSEK": 176.4,
+      "salesPriceSEK": 352.8,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "H-146",
+      "product": "Ergonomic Cable Organizer",
+      "profile": "0.2mm layer, 3 walls, 25% infill",
+      "profileUrl": "https://makerworld.com/en/models/1166375-ergonomic-cable-organizer#profileId-1173796",
+      "plates": 2,
+      "displayedTotal": "46 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 36.0
+        },
+        {
+          "material": "PLA",
+          "grams": 10.0
+        }
+      ],
+      "weightGrams": 46.0,
+      "materialCostSEK": 18.4,
+      "salesPriceSEK": 36.8,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "H-147",
+      "product": "EDC organizer",
+      "profile": "original",
+      "profileUrl": "https://makerworld.com/en/models/1773168-edc-organizer#profileId-1888035",
+      "plates": 4,
+      "displayedTotal": "185 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 185.0
+        }
+      ],
+      "weightGrams": 185.0,
+      "materialCostSEK": 74.0,
+      "salesPriceSEK": 148.0,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "H-148",
+      "product": "Minimalist Bathroom Carry-All Organizer",
+      "profile": "0.2mm layer, 2 walls, 15% infill",
+      "profileUrl": "https://makerworld.com/en/models/2082327-minimalist-bathroom-carry-all-organizer#profileId-2250305",
+      "plates": 1,
+      "displayedTotal": "465 g",
+      "filaments": [
+        {
+          "material": "PETG",
+          "grams": 465.0
+        }
+      ],
+      "weightGrams": 465.0,
+      "materialCostSEK": 186.0,
+      "salesPriceSEK": 372.0,
+      "needsPlaCheck": true
+    },
+    {
+      "sku": "H-149",
+      "product": "STORA · Stackable Organizer",
+      "profile": "0.24mm layer, 2 walls, 15% infill",
+      "profileUrl": "https://makerworld.com/en/models/2524706-stora-stackable-organizer#profileId-2777845",
+      "plates": 1,
+      "displayedTotal": "94 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 94.0
+        }
+      ],
+      "weightGrams": 94.0,
+      "materialCostSEK": 37.6,
+      "salesPriceSEK": 75.2,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "H-150",
+      "product": "Key / jewelry organizer tree",
+      "profile": "Tree with tray",
+      "profileUrl": "https://makerworld.com/en/models/1577641-key-jewelry-organizer-tree#profileId-1660010",
+      "plates": 1,
+      "displayedTotal": "90 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 90.0
+        }
+      ],
+      "weightGrams": 90.0,
+      "materialCostSEK": 36.0,
+      "salesPriceSEK": 72.0,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "B-101",
+      "product": "My 10 star fidget design",
+      "profile": "0.24mm layer, 1 walls, 10% infill",
+      "profileUrl": "https://makerworld.com/en/models/1755208-my-10-star-fidget-design#profileId-1866474",
+      "plates": 1,
+      "displayedTotal": "85 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 85.0
+        }
+      ],
+      "weightGrams": 85.0,
+      "materialCostSEK": 34.0,
+      "salesPriceSEK": 68.0,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "B-102",
+      "product": "Twisted Ball Fidget - Two Sizes",
+      "profile": "0.2mm, 2 walls, 0% infill",
+      "profileUrl": "https://makerworld.com/en/models/2313012-twisted-ball-fidget-two-sizes#profileId-2525295",
+      "plates": 2,
+      "displayedTotal": "118 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 118.0
+        }
+      ],
+      "weightGrams": 118.0,
+      "materialCostSEK": 47.2,
+      "salesPriceSEK": 94.4,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "B-103",
+      "product": "Amazing star fidget**FREE COMERICIAL LICENCE**",
+      "profile": "MINI FIDGET 2.5 HOUR PRINT",
+      "profileUrl": "https://makerworld.com/en/models/1665158-amazing-star-fidget-free-comericial-licence#profileId-1941548",
+      "plates": 1,
+      "displayedTotal": "58 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 58.0
+        }
+      ],
+      "weightGrams": 58.0,
+      "materialCostSEK": 23.2,
+      "salesPriceSEK": 46.4,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "B-104",
+      "product": "Flexible Mesh Fidget Pad (Print-in-Place)",
+      "profile": "Extra Big Size - 320x320x3.06 mm",
+      "profileUrl": "https://makerworld.com/en/models/2629018-flexible-mesh-fidget-pad-print-in-place#profileId-3220598",
+      "plates": 1,
+      "displayedTotal": "191 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 191.0
+        }
+      ],
+      "weightGrams": 191.0,
+      "materialCostSEK": 76.4,
+      "salesPriceSEK": 152.8,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "B-105",
+      "product": "star dancer fidget twist",
+      "profile": "0.2mm layer, 2 walls, 15% infill",
+      "profileUrl": "https://makerworld.com/en/models/2208902-star-dancer-fidget-twist#profileId-2401045",
+      "plates": 1,
+      "displayedTotal": "88 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 88.0
+        }
+      ],
+      "weightGrams": 88.0,
+      "materialCostSEK": 35.2,
+      "salesPriceSEK": 70.4,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "B-106",
+      "product": "Fidget Click Flick Swoosh - Print in place!",
+      "profile": "Loose fit - 0.2mm layer, 3 walls, 0% infill",
+      "profileUrl": "https://makerworld.com/en/models/716803-fidget-click-flick-swoosh-print-in-place#profileId-647636",
+      "plates": 1,
+      "displayedTotal": "15 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 15.0
+        }
+      ],
+      "weightGrams": 15.0,
+      "materialCostSEK": 6.0,
+      "salesPriceSEK": 12.0,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "B-107",
+      "product": "Hexagon Twist Fidget - with handle",
+      "profile": "0.2mm layer, 3 walls, 15% infill",
+      "profileUrl": "https://makerworld.com/en/models/2078930-hexagon-twist-fidget-with-handle#profileId-2246152",
+      "plates": 1,
+      "displayedTotal": "47 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 47.0
+        }
+      ],
+      "weightGrams": 47.0,
+      "materialCostSEK": 18.8,
+      "salesPriceSEK": 37.6,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "B-108",
+      "product": "Ultimate Oval Triple Spin Fidget (Print in Place)",
+      "profile": "0.2mm layer, 2 walls, 15% infill",
+      "profileUrl": "https://makerworld.com/en/models/2336776-ultimate-oval-triple-spin-fidget-print-in-place#profileId-2554045",
+      "plates": 1,
+      "displayedTotal": "10 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 10.0
+        }
+      ],
+      "weightGrams": 10.0,
+      "materialCostSEK": 4.0,
+      "salesPriceSEK": 8.0,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "B-109",
+      "product": "Hexagon Twist Fidget (V2)",
+      "profile": "Large, Medium, Small and Keychain",
+      "profileUrl": "https://makerworld.com/en/models/746400-hexagon-twist-fidget-v2#profileId-679506",
+      "plates": 4,
+      "displayedTotal": "232 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 232.0
+        }
+      ],
+      "weightGrams": 232.0,
+      "materialCostSEK": 92.8,
+      "salesPriceSEK": 185.6,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "B-110",
+      "product": "Small Spiral Fidget",
+      "profile": "Separate Plates(Multi Color!!)",
+      "profileUrl": "https://makerworld.com/en/models/1130569-small-spiral-fidget#profileId-1130773",
+      "plates": 2,
+      "displayedTotal": "4 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 4.0
+        }
+      ],
+      "weightGrams": 4.0,
+      "materialCostSEK": 1.6,
+      "salesPriceSEK": 3.2,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "B-111",
+      "product": "Flexi Fabric Fidget (Print in Place!)",
+      "profile": "A1 Mini, Print In Place 0.2mm layer, 5 walls, 15% infill",
+      "profileUrl": "https://makerworld.com/en/models/1544529-flexi-fabric-fidget-print-in-place#profileId-1621552",
+      "plates": 1,
+      "displayedTotal": "76 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 76.0
+        }
+      ],
+      "weightGrams": 76.0,
+      "materialCostSEK": 30.4,
+      "salesPriceSEK": 60.8,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "B-112",
+      "product": "Curved Star Fidget",
+      "profile": "0.24mm layer, 1 walls, 10% infill",
+      "profileUrl": "https://makerworld.com/en/models/2034355-curved-star-fidget#profileId-2194184",
+      "plates": 1,
+      "displayedTotal": "87 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 79.0
+        },
+        {
+          "material": "PLA",
+          "grams": 8.0
+        }
+      ],
+      "weightGrams": 87.0,
+      "materialCostSEK": 34.8,
+      "salesPriceSEK": 69.6,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "B-113",
+      "product": "Star Fidget with Handle",
+      "profile": "0.28mm layer, 2 walls, 15% infill",
+      "profileUrl": "https://makerworld.com/en/models/1783379-star-fidget-with-handle#profileId-1899952",
+      "plates": 3,
+      "displayedTotal": "150 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 150.0
+        }
+      ],
+      "weightGrams": 150.0,
+      "materialCostSEK": 60.0,
+      "salesPriceSEK": 120.0,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "B-114",
+      "product": "Satisfying Clicker Ball",
+      "profile": "0.16mm layer, 2 walls, 15% infill",
+      "profileUrl": "https://makerworld.com/en/models/2864475-satisfying-clicker-ball#profileId-3197077",
+      "plates": 1,
+      "displayedTotal": "46 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 46.0
+        }
+      ],
+      "weightGrams": 46.0,
+      "materialCostSEK": 18.4,
+      "salesPriceSEK": 36.8,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "B-115",
+      "product": "COOL FIDGET",
+      "profile": "Dual-color version B",
+      "profileUrl": "https://makerworld.com/en/models/1571798-cool-fidget#profileId-1653247",
+      "plates": 2,
+      "displayedTotal": "15 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 8.0
+        },
+        {
+          "material": "PLA",
+          "grams": 7.0
+        }
+      ],
+      "weightGrams": 15.0,
+      "materialCostSEK": 6.0,
+      "salesPriceSEK": 12.0,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "B-116",
+      "product": "Nytrax - 3 in 1 EDC Fidget Slide Toy CyberPunk",
+      "profile": "Nytrax - Single Color",
+      "profileUrl": "https://makerworld.com/en/models/2698814-nytrax-3-in-1-edc-fidget-slide-toy-cyberpunk#profileId-2991626",
+      "plates": 1,
+      "displayedTotal": "17 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 17.0
+        }
+      ],
+      "weightGrams": 17.0,
+      "materialCostSEK": 6.8,
+      "salesPriceSEK": 13.6,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "B-117",
+      "product": "Multi Fidget Click Flip Swoosh",
+      "profile": "Optimised profile",
+      "profileUrl": "https://makerworld.com/en/models/1231216-multi-fidget-click-flip-swoosh#profileId-1250049",
+      "plates": 1,
+      "displayedTotal": "20 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 20.0
+        }
+      ],
+      "weightGrams": 20.0,
+      "materialCostSEK": 8.0,
+      "salesPriceSEK": 16.0,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "B-118",
+      "product": "Expanding Star Fidget",
+      "profile": "0.16mm layer, 2 walls, 15% infill",
+      "profileUrl": "https://makerworld.com/en/models/1749473-expanding-star-fidget#profileId-2103690",
+      "plates": 1,
+      "displayedTotal": "38 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 38.0
+        }
+      ],
+      "weightGrams": 38.0,
+      "materialCostSEK": 15.2,
+      "salesPriceSEK": 30.4,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "B-119",
+      "product": "Easy to print Fidget Free to sell",
+      "profile": "0.2mm layer, 6 walls, 25% infill",
+      "profileUrl": "https://makerworld.com/en/models/1066167-easy-to-print-fidget-free-to-sell#profileId-1055234",
+      "plates": 1,
+      "displayedTotal": "9 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 9.0
+        }
+      ],
+      "weightGrams": 9.0,
+      "materialCostSEK": 3.6,
+      "salesPriceSEK": 7.2,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "B-120",
+      "product": "Joy Fidget V2.0",
+      "profile": "Joy Fidget",
+      "profileUrl": "https://makerworld.com/en/models/202173-joy-fidget-v2-0#profileId-222558",
+      "plates": 1,
+      "displayedTotal": "23 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 23.0
+        }
+      ],
+      "weightGrams": 23.0,
+      "materialCostSEK": 9.2,
+      "salesPriceSEK": 18.4,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "B-121",
+      "product": "MEGA Hex Spiral Fidget Toy - Print in Place",
+      "profile": "0.2mm layer, 2 walls, 10% infill",
+      "profileUrl": "https://makerworld.com/en/models/2447139-mega-hex-spiral-fidget-toy-print-in-place#profileId-2686156",
+      "plates": 1,
+      "displayedTotal": "60 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 60.0
+        }
+      ],
+      "weightGrams": 60.0,
+      "materialCostSEK": 24.0,
+      "salesPriceSEK": 48.0,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "B-122",
+      "product": "Fidget Pop Square",
+      "profile": "0.2mm layer, 2 walls, 15% infill",
+      "profileUrl": "https://makerworld.com/en/models/1169449-fidget-pop-square#profileId-1177500",
+      "plates": 1,
+      "displayedTotal": "29 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 29.0
+        }
+      ],
+      "weightGrams": 29.0,
+      "materialCostSEK": 11.6,
+      "salesPriceSEK": 23.2,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "B-123",
+      "product": "Kinetic fidget",
+      "profile": "0.2mm layer, 2 walls, 15% infill",
+      "profileUrl": "https://makerworld.com/en/models/1205691-kinetic-fidget#profileId-1219522",
+      "plates": 2,
+      "displayedTotal": "44 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 17.0
+        },
+        {
+          "material": "PLA",
+          "grams": 27.0
+        }
+      ],
+      "weightGrams": 44.0,
+      "materialCostSEK": 17.6,
+      "salesPriceSEK": 35.2,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "B-124",
+      "product": "Alpha Fidget- 5 in 1 Print in Place Fidget Toy",
+      "profile": "0.2mm layer, 2 walls, 15% infill",
+      "profileUrl": "https://makerworld.com/en/models/1049589-alpha-fidget-5-in-1-print-in-place-fidget-toy#profileId-1060868",
+      "plates": 1,
+      "displayedTotal": "25 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 25.0
+        }
+      ],
+      "weightGrams": 25.0,
+      "materialCostSEK": 10.0,
+      "salesPriceSEK": 20.0,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "B-125",
+      "product": "Fidget Hexagon Twist",
+      "profile": "Small Fidget",
+      "profileUrl": "https://makerworld.com/en/models/521944-fidget-hexagon-twist#profileId-438584",
+      "plates": 1,
+      "displayedTotal": "20 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 20.0
+        }
+      ],
+      "weightGrams": 20.0,
+      "materialCostSEK": 8.0,
+      "salesPriceSEK": 16.0,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "B-126",
+      "product": "Cheese fidget clicker MX switch keychain - 5 grams",
+      "profile": "print both together-0.2mm layer, 2 walls, 15% infill",
+      "profileUrl": "https://makerworld.com/en/models/1142090-cheese-fidget-clicker-mx-switch-keychain-5-grams#profileId-1145098",
+      "plates": 1,
+      "displayedTotal": "5 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 5.0
+        }
+      ],
+      "weightGrams": 5.0,
+      "materialCostSEK": 2.0,
+      "salesPriceSEK": 4.0,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "B-127",
+      "product": "Fidget Wobble8 - two sizes",
+      "profile": "large version",
+      "profileUrl": "https://makerworld.com/en/models/700410-fidget-wobble8-two-sizes#profileId-767992",
+      "plates": 1,
+      "displayedTotal": "31 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 31.0
+        }
+      ],
+      "weightGrams": 31.0,
+      "materialCostSEK": 12.4,
+      "salesPriceSEK": 24.8,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "B-128",
+      "product": "Fidget Click Keychain - Print in Place - 15 min",
+      "profile": "Normal tolerance",
+      "profileUrl": "https://makerworld.com/en/models/722323-fidget-click-keychain-print-in-place-15-min#profileId-653276",
+      "plates": 1,
+      "displayedTotal": "5 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 5.0
+        }
+      ],
+      "weightGrams": 5.0,
+      "materialCostSEK": 2.0,
+      "salesPriceSEK": 4.0,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "B-129",
+      "product": "Fidget Flick Boba Tea - Print in place!",
+      "profile": "0.2mm layer, 3 walls, 30% infill",
+      "profileUrl": "https://makerworld.com/en/models/1094144-fidget-flick-boba-tea-print-in-place#profileId-1088219",
+      "plates": 1,
+      "displayedTotal": "12 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 11.0
+        },
+        {
+          "material": "PLA",
+          "grams": 1.0
+        }
+      ],
+      "weightGrams": 12.0,
+      "materialCostSEK": 4.8,
+      "salesPriceSEK": 9.6,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "B-130",
+      "product": "Flexible Squishy Fidget Loop",
+      "profile": "Squishy Fidget Loop - 0.2mm layer, 1 walls, 0% infill",
+      "profileUrl": "https://makerworld.com/en/models/2861823-flexible-squishy-fidget-loop#profileId-3193798",
+      "plates": 1,
+      "displayedTotal": "18 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 18.0
+        }
+      ],
+      "weightGrams": 18.0,
+      "materialCostSEK": 7.2,
+      "salesPriceSEK": 14.4,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "B-131",
+      "product": "twist fidget",
+      "profile": "same twist but with 100% infill on the nut making it heavier",
+      "profileUrl": "https://makerworld.com/en/models/464041-twist-fidget#profileId-374970",
+      "plates": 1,
+      "displayedTotal": "32 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 32.0
+        }
+      ],
+      "weightGrams": 32.0,
+      "materialCostSEK": 12.8,
+      "salesPriceSEK": 25.6,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "B-132",
+      "product": "Fidget Blanket",
+      "profile": "0.16mm layer, 3 walls, 5% infill",
+      "profileUrl": "https://makerworld.com/en/models/892608-fidget-blanket#profileId-849470",
+      "plates": 1,
+      "displayedTotal": "60 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 60.0
+        }
+      ],
+      "weightGrams": 60.0,
+      "materialCostSEK": 24.0,
+      "salesPriceSEK": 48.0,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "B-133",
+      "product": "Spin Pop - fidget toys",
+      "profile": "0.16mm layer, 2 walls, 22% infill",
+      "profileUrl": "https://makerworld.com/en/models/2822623-spin-pop-fidget-toys#profileId-3143761",
+      "plates": 11,
+      "displayedTotal": "23 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 23.0
+        }
+      ],
+      "weightGrams": 23.0,
+      "materialCostSEK": 9.2,
+      "salesPriceSEK": 18.4,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "B-134",
+      "product": "Transforming Fidget Ball Micro",
+      "profile": "0.2mm layer, 2 walls, 15% infill",
+      "profileUrl": "https://makerworld.com/en/models/1101000-transforming-fidget-ball-micro#profileId-1096260",
+      "plates": 1,
+      "displayedTotal": "104 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 104.0
+        }
+      ],
+      "weightGrams": 104.0,
+      "materialCostSEK": 41.6,
+      "salesPriceSEK": 83.2,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "B-135",
+      "product": "Multi Fidget",
+      "profile": "Multi color - Optimized for Quality",
+      "profileUrl": "https://makerworld.com/en/models/1383513-multi-fidget#profileId-1432382",
+      "plates": 1,
+      "displayedTotal": "54 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 21.0
+        },
+        {
+          "material": "PLA",
+          "grams": 33.0
+        }
+      ],
+      "weightGrams": 54.0,
+      "materialCostSEK": 21.6,
+      "salesPriceSEK": 43.2,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "B-136",
+      "product": "Fidget Click Clack Swoosh! Print in Place - 32 min",
+      "profile": "Optimized pofile, loose tolerances",
+      "profileUrl": "https://makerworld.com/en/models/719725-fidget-click-clack-swoosh-print-in-place-32-min#profileId-656139",
+      "plates": 1,
+      "displayedTotal": "15 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 15.0
+        }
+      ],
+      "weightGrams": 15.0,
+      "materialCostSEK": 6.0,
+      "salesPriceSEK": 12.0,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "B-137",
+      "product": "Click Click Thumb Spin Fidget",
+      "profile": "Single Colour",
+      "profileUrl": "https://makerworld.com/en/models/843772-click-click-thumb-spin-fidget#profileId-806913",
+      "plates": 1,
+      "displayedTotal": "12 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 12.0
+        }
+      ],
+      "weightGrams": 12.0,
+      "materialCostSEK": 4.8,
+      "salesPriceSEK": 9.6,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "B-138",
+      "product": "Fidget Toy",
+      "profile": "Variant 1, small base",
+      "profileUrl": "https://makerworld.com/en/models/839560-fidget-toy#profileId-785449",
+      "plates": 2,
+      "displayedTotal": "18 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 12.0
+        },
+        {
+          "material": "PLA",
+          "grams": 6.0
+        }
+      ],
+      "weightGrams": 18.0,
+      "materialCostSEK": 7.2,
+      "salesPriceSEK": 14.4,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "B-139",
+      "product": "Fidget Toy Spirale",
+      "profile": "0.2mm layer, 2 walls, 15% infill",
+      "profileUrl": "https://makerworld.com/en/models/1195780-fidget-toy-spirale#profileId-1208397",
+      "plates": 1,
+      "displayedTotal": "34 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 34.0
+        }
+      ],
+      "weightGrams": 34.0,
+      "materialCostSEK": 13.6,
+      "salesPriceSEK": 27.2,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "B-140",
+      "product": "Pocket Link Fidget - Print in Place",
+      "profile": "Original Size",
+      "profileUrl": "https://makerworld.com/en/models/1085122-pocket-link-fidget-print-in-place#profileId-1077774",
+      "plates": 1,
+      "displayedTotal": "7 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 7.0
+        }
+      ],
+      "weightGrams": 7.0,
+      "materialCostSEK": 2.8,
+      "salesPriceSEK": 5.6,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "B-141",
+      "product": "spiky sensory fidget",
+      "profile": "0.2mm layer, 3 walls, 15% infill",
+      "profileUrl": "https://makerworld.com/en/models/1525449-spiky-sensory-fidget#profileId-1599060",
+      "plates": 1,
+      "displayedTotal": "32 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 32.0
+        }
+      ],
+      "weightGrams": 32.0,
+      "materialCostSEK": 12.8,
+      "salesPriceSEK": 25.6,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "B-142",
+      "product": "Fidget slider",
+      "profile": "2 Color, With Pause, 0.16mm layer, 2 walls, 15% infill",
+      "profileUrl": "https://makerworld.com/en/models/641726-fidget-slider#profileId-597829",
+      "plates": 3,
+      "displayedTotal": "60 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 26.0
+        },
+        {
+          "material": "PLA",
+          "grams": 34.0
+        }
+      ],
+      "weightGrams": 60.0,
+      "materialCostSEK": 24.0,
+      "salesPriceSEK": 48.0,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "B-143",
+      "product": "Transforming Fidget Ball Mini",
+      "profile": "0.2mm layer, 2 walls, 15% infill",
+      "profileUrl": "https://makerworld.com/en/models/482093-transforming-fidget-ball-mini#profileId-393997",
+      "plates": 1,
+      "displayedTotal": "342 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 342.0
+        }
+      ],
+      "weightGrams": 342.0,
+      "materialCostSEK": 136.8,
+      "salesPriceSEK": 273.6,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "B-144",
+      "product": "Infinity Fidget - Print in Place",
+      "profile": "The Original - Single color",
+      "profileUrl": "https://makerworld.com/en/models/2429789-infinity-fidget-print-in-place#profileId-2665303",
+      "plates": 1,
+      "displayedTotal": "18 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 18.0
+        }
+      ],
+      "weightGrams": 18.0,
+      "materialCostSEK": 7.2,
+      "salesPriceSEK": 14.4,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "B-145",
+      "product": "IRIS FIDGET - PRINT IN PLACE - 3D FIDGET",
+      "profile": "Optimized for fun :)",
+      "profileUrl": "https://makerworld.com/en/models/1472499-iris-fidget-print-in-place-3d-fidget#profileId-1536634",
+      "plates": 1,
+      "displayedTotal": "23 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 23.0
+        }
+      ],
+      "weightGrams": 23.0,
+      "materialCostSEK": 9.2,
+      "salesPriceSEK": 18.4,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "B-146",
+      "product": "small pocket sized fidget",
+      "profile": "0.2mm layer, 2 walls, 15% infill",
+      "profileUrl": "https://makerworld.com/en/models/2332842-small-pocket-sized-fidget#profileId-2548843",
+      "plates": 1,
+      "displayedTotal": "59 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 59.0
+        }
+      ],
+      "weightGrams": 59.0,
+      "materialCostSEK": 23.6,
+      "salesPriceSEK": 47.2,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "B-147",
+      "product": "Fidget Iris - 8 Sliders Snapfit",
+      "profile": "2025 Revision - 2 Color AMS Profile",
+      "profileUrl": "https://makerworld.com/en/models/558072-fidget-iris-8-sliders-snapfit#profileId-1660015",
+      "plates": 1,
+      "displayedTotal": "30 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 22.0
+        },
+        {
+          "material": "PLA",
+          "grams": 8.0
+        }
+      ],
+      "weightGrams": 30.0,
+      "materialCostSEK": 12.0,
+      "salesPriceSEK": 24.0,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "B-148",
+      "product": "Passthrough Ice cream fidget",
+      "profile": "0.2mm layer, 2 walls, 15% infill",
+      "profileUrl": "https://makerworld.com/en/models/597925-passthrough-ice-cream-fidget#profileId-519977",
+      "plates": 2,
+      "displayedTotal": "40 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 19.0
+        },
+        {
+          "material": "PLA",
+          "grams": 21.0
+        }
+      ],
+      "weightGrams": 40.0,
+      "materialCostSEK": 16.0,
+      "salesPriceSEK": 32.0,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "B-149",
+      "product": "Fiddle Fidget",
+      "profile": "large version",
+      "profileUrl": "https://makerworld.com/en/models/714037-fiddle-fidget#profileId-963314",
+      "plates": 1,
+      "displayedTotal": "40 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 40.0
+        }
+      ],
+      "weightGrams": 40.0,
+      "materialCostSEK": 16.0,
+      "salesPriceSEK": 32.0,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "B-150",
+      "product": "Star shaped Fidget (with handle)",
+      "profile": "80% size - Optimized for quality",
+      "profileUrl": "https://makerworld.com/en/models/2134683-star-shaped-fidget-with-handle#profileId-2422867",
+      "plates": 1,
+      "displayedTotal": "52 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 4.0
+        },
+        {
+          "material": "PLA",
+          "grams": 48.0
+        }
+      ],
+      "weightGrams": 52.0,
+      "materialCostSEK": 20.8,
+      "salesPriceSEK": 41.6,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "J-101",
+      "product": "Christmas Tree Snowflake Ornament Set",
+      "profile": "0.2mm layer, 2 walls, 30% infill",
+      "profileUrl": "https://makerworld.com/en/models/2004602-christmas-tree-snowflake-ornament-set#profileId-2158716",
+      "plates": 1,
+      "displayedTotal": "51 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 51.0
+        }
+      ],
+      "weightGrams": 51.0,
+      "materialCostSEK": 20.4,
+      "salesPriceSEK": 40.8,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "J-102",
+      "product": "Customizable Christmas Ornaments",
+      "profile": "0.16mm layer, 2 walls, 15% infill",
+      "profileUrl": "https://makerworld.com/en/models/3354693-customizable-christmas-ornaments#profileId-3840004",
+      "plates": 8,
+      "displayedTotal": "116 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 114.0
+        },
+        {
+          "material": "PLA",
+          "grams": 2.0
+        }
+      ],
+      "weightGrams": 116.0,
+      "materialCostSEK": 46.4,
+      "salesPriceSEK": 92.8,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "J-103",
+      "product": "Puffy Coquette Bow Christmas Ornament",
+      "profile": "0.2mm layer, 2 walls, 3% infill",
+      "profileUrl": "https://makerworld.com/en/models/2004549-puffy-coquette-bow-christmas-ornament#profileId-2158660",
+      "plates": 1,
+      "displayedTotal": "24 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 24.0
+        }
+      ],
+      "weightGrams": 24.0,
+      "materialCostSEK": 9.6,
+      "salesPriceSEK": 19.2,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "J-104",
+      "product": "Christmas Ornaments Line Art",
+      "profile": "Christmas Ornaments Line Art",
+      "profileUrl": "https://makerworld.com/en/models/3354016-christmas-ornaments-line-art#profileId-3812412",
+      "plates": 2,
+      "displayedTotal": "30 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 16.0
+        },
+        {
+          "material": "PLA",
+          "grams": 14.0
+        }
+      ],
+      "weightGrams": 30.0,
+      "materialCostSEK": 12.0,
+      "salesPriceSEK": 24.0,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "J-105",
+      "product": "Rudolph Ornament - Perfect for Christmas - Deer",
+      "profile": "80mm height - 1 color",
+      "profileUrl": "https://makerworld.com/en/models/1995449-rudolph-ornament-perfect-for-christmas-deer#profileId-2153007",
+      "plates": 1,
+      "displayedTotal": "23 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 23.0
+        }
+      ],
+      "weightGrams": 23.0,
+      "materialCostSEK": 9.2,
+      "salesPriceSEK": 18.4,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "J-106",
+      "product": "Modern Christmas ornaments  - baubles decoration",
+      "profile": "0.16mm layer, 2 walls, 10% infill",
+      "profileUrl": "https://makerworld.com/en/models/2081246-modern-christmas-ornaments-baubles-decoration#profileId-2248923",
+      "plates": 10,
+      "displayedTotal": "686 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 686.0
+        }
+      ],
+      "weightGrams": 686.0,
+      "materialCostSEK": 274.4,
+      "salesPriceSEK": 548.8,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "J-107",
+      "product": "Spiral Ornament | Minimal Material",
+      "profile": "P2S/P1S|Structural Shell Tune|Lightweight|Add Suport",
+      "profileUrl": "https://makerworld.com/en/models/2011443-spiral-ornament-minimal-material#profileId-2166938",
+      "plates": 1,
+      "displayedTotal": "28 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 28.0
+        }
+      ],
+      "weightGrams": 28.0,
+      "materialCostSEK": 11.2,
+      "salesPriceSEK": 22.4,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "J-108",
+      "product": "Organic Modern Christmas Collection",
+      "profile": "Christmas Figures (4 PLATES), 0.2mm layer",
+      "profileUrl": "https://makerworld.com/en/models/3383711-organic-modern-christmas-collection#profileId-3850153",
+      "plates": 4,
+      "displayedTotal": "83 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 22.0
+        },
+        {
+          "material": "PLA",
+          "grams": 21.0
+        },
+        {
+          "material": "PLA",
+          "grams": 27.0
+        },
+        {
+          "material": "PLA",
+          "grams": 13.0
+        }
+      ],
+      "weightGrams": 83.0,
+      "materialCostSEK": 33.2,
+      "salesPriceSEK": 66.4,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "J-109",
+      "product": "Christmas Gift Tag Christmas Ornament",
+      "profile": "0.2mm layer, 2 walls, 15% infill",
+      "profileUrl": "https://makerworld.com/en/models/3366829-christmas-gift-tag-christmas-ornament#profileId-3828802",
+      "plates": 1,
+      "displayedTotal": "20 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 18.0
+        },
+        {
+          "material": "PLA",
+          "grams": 2.0
+        }
+      ],
+      "weightGrams": 20.0,
+      "materialCostSEK": 8.0,
+      "salesPriceSEK": 16.0,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "J-110",
+      "product": "Fuzzy Christmas Ball - Hang or Stand",
+      "profile": "Fuzzy Skin Christmas Ball // Hang & Stand",
+      "profileUrl": "https://makerworld.com/en/models/1932362-fuzzy-christmas-ball-hang-or-stand#profileId-2074496",
+      "plates": 2,
+      "displayedTotal": "92 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 92.0
+        }
+      ],
+      "weightGrams": 92.0,
+      "materialCostSEK": 36.8,
+      "salesPriceSEK": 73.6,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "J-111",
+      "product": "Nutcracker Decoration",
+      "profile": "Nutcracker Ribbed",
+      "profileUrl": "https://makerworld.com/en/models/1932060-nutcracker-decoration#profileId-2074135",
+      "plates": 1,
+      "displayedTotal": "91 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 91.0
+        }
+      ],
+      "weightGrams": 91.0,
+      "materialCostSEK": 36.4,
+      "salesPriceSEK": 72.8,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "J-112",
+      "product": "Tealight Houses",
+      "profile": "Klein",
+      "profileUrl": "https://makerworld.com/en/models/1941040-tealight-houses#profileId-2084675",
+      "plates": 4,
+      "displayedTotal": "363 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 363.0
+        }
+      ],
+      "weightGrams": 363.0,
+      "materialCostSEK": 145.2,
+      "salesPriceSEK": 290.4,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "J-113",
+      "product": "Atmospheric Christmas Figures",
+      "profile": "Atmospheric Christmas Figures – LED Tea Light Holders",
+      "profileUrl": "https://makerworld.com/en/models/3147359-atmospheric-christmas-figures#profileId-3554696",
+      "plates": 1,
+      "displayedTotal": "397 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 397.0
+        }
+      ],
+      "weightGrams": 397.0,
+      "materialCostSEK": 158.8,
+      "salesPriceSEK": 317.6,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "J-114",
+      "product": "Mini Christmas Ornament Elegant Ribbed Design",
+      "profile": "0.2mm layer, 2 walls, 15% infill",
+      "profileUrl": "https://makerworld.com/en/models/1948327-mini-christmas-ornament-elegant-ribbed-design#profileId-2093295",
+      "plates": 1,
+      "displayedTotal": "4 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 4.0
+        }
+      ],
+      "weightGrams": 4.0,
+      "materialCostSEK": 1.6,
+      "salesPriceSEK": 3.2,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "J-115",
+      "product": "Minimalist Nativity Scene-Minimalist Nativity Set",
+      "profile": "0.2mm layer, 3 walls, 15% infill",
+      "profileUrl": "https://makerworld.com/en/models/3279470-minimalist-nativity-scene-minimalist-nativity-set#profileId-3807758",
+      "plates": 1,
+      "displayedTotal": "352 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 73.0
+        },
+        {
+          "material": "PLA",
+          "grams": 173.0
+        },
+        {
+          "material": "PLA",
+          "grams": 106.0
+        }
+      ],
+      "weightGrams": 352.0,
+      "materialCostSEK": 140.8,
+      "salesPriceSEK": 281.6,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "J-116",
+      "product": "Christmas Bow - Elegance that decorates!",
+      "profile": "0.2mm layer, 2 walls, 8% infill",
+      "profileUrl": "https://makerworld.com/en/models/2059130-christmas-bow-elegance-that-decorates#profileId-2223067",
+      "plates": 1,
+      "displayedTotal": "15 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 15.0
+        }
+      ],
+      "weightGrams": 15.0,
+      "materialCostSEK": 6.0,
+      "salesPriceSEK": 12.0,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "J-117",
+      "product": "Merry Christmas with snowflake",
+      "profile": "0.2mm layer, 2 walls, 15% infill",
+      "profileUrl": "https://makerworld.com/en/models/1939289-merry-christmas-with-snowflake#profileId-2082614",
+      "plates": 1,
+      "displayedTotal": "47 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 47.0
+        }
+      ],
+      "weightGrams": 47.0,
+      "materialCostSEK": 18.8,
+      "salesPriceSEK": 37.6,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "J-118",
+      "product": "Snowflakes for christmas tree decoration",
+      "profile": "0.2mm layer, 2 walls, 15% infill",
+      "profileUrl": "https://makerworld.com/en/models/763210-snowflakes-for-christmas-tree-decoration#profileId-698133",
+      "plates": 1,
+      "displayedTotal": "26 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 26.0
+        }
+      ],
+      "weightGrams": 26.0,
+      "materialCostSEK": 10.4,
+      "salesPriceSEK": 20.8,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "J-119",
+      "product": "Christmas tree ornaments",
+      "profile": "A1 P1S P1P X1C",
+      "profileUrl": "https://makerworld.com/en/models/799667-christmas-tree-ornaments#profileId-739505",
+      "plates": 1,
+      "displayedTotal": "33 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 33.0
+        }
+      ],
+      "weightGrams": 33.0,
+      "materialCostSEK": 13.2,
+      "salesPriceSEK": 26.4,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "J-120",
+      "product": "Crochet Christmas Reindeer – Cozy Holiday Decor",
+      "profile": "Single Reindeer 125 mm – Crochet Xmas Reindeer",
+      "profileUrl": "https://makerworld.com/en/models/3337730-crochet-christmas-reindeer-cozy-holiday-decor#profileId-3830336",
+      "plates": 1,
+      "displayedTotal": "53 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 53.0
+        }
+      ],
+      "weightGrams": 53.0,
+      "materialCostSEK": 21.2,
+      "salesPriceSEK": 42.4,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "J-121",
+      "product": "Knitted Christmas Bauble – Cable Knit Ornament",
+      "profile": "0.2mm layer, 2 walls, 15% infill",
+      "profileUrl": "https://makerworld.com/en/models/3407460-knitted-christmas-bauble-cable-knit-ornament#profileId-3880607",
+      "plates": 1,
+      "displayedTotal": "42 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 42.0
+        }
+      ],
+      "weightGrams": 42.0,
+      "materialCostSEK": 16.8,
+      "salesPriceSEK": 33.6,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "J-122",
+      "product": "Small Angel with Heart",
+      "profile": "0.2mm layer, 2 walls, 10% infill",
+      "profileUrl": "https://makerworld.com/en/models/2064214-small-angel-with-heart#profileId-2228982",
+      "plates": 1,
+      "displayedTotal": "37 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 37.0
+        }
+      ],
+      "weightGrams": 37.0,
+      "materialCostSEK": 14.8,
+      "salesPriceSEK": 29.6,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "J-123",
+      "product": "Winter Reindeer Trio – Minimal Christmas Decor",
+      "profile": "0.16mm layer, 2 walls, 15% infill",
+      "profileUrl": "https://makerworld.com/en/models/1493203-winter-reindeer-trio-minimal-christmas-decor#profileId-1561170",
+      "plates": 3,
+      "displayedTotal": "16 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 16.0
+        }
+      ],
+      "weightGrams": 16.0,
+      "materialCostSEK": 6.4,
+      "salesPriceSEK": 12.8,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "J-124",
+      "product": "Majestic Christmas Deer Ornament & Decor Stand",
+      "profile": "0.2mm layer, 2 walls, 15% infill",
+      "profileUrl": "https://makerworld.com/en/models/1902756-majestic-christmas-deer-ornament-decor-stand#profileId-2039532",
+      "plates": 3,
+      "displayedTotal": "39 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 39.0
+        }
+      ],
+      "weightGrams": 39.0,
+      "materialCostSEK": 15.6,
+      "salesPriceSEK": 31.2,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "J-125",
+      "product": "Mini Christmas Snowman Tea Light Ornament",
+      "profile": "Top Hat",
+      "profileUrl": "https://makerworld.com/en/models/2022624-mini-christmas-snowman-tea-light-ornament#profileId-2180166",
+      "plates": 4,
+      "displayedTotal": "97 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 49.0
+        },
+        {
+          "material": "PLA",
+          "grams": 12.0
+        },
+        {
+          "material": "PLA",
+          "grams": 10.0
+        },
+        {
+          "material": "PLA",
+          "grams": 26.0
+        }
+      ],
+      "weightGrams": 97.0,
+      "materialCostSEK": 38.8,
+      "salesPriceSEK": 77.6,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "J-126",
+      "product": "Xmas reindeer christmas tree deco",
+      "profile": "0.2mm layer, 2 walls, 15% infill",
+      "profileUrl": "https://makerworld.com/en/models/1855680-xmas-reindeer-christmas-tree-deco#profileId-1984211",
+      "plates": 3,
+      "displayedTotal": "89 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 89.0
+        }
+      ],
+      "weightGrams": 89.0,
+      "materialCostSEK": 35.6,
+      "salesPriceSEK": 71.2,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "J-127",
+      "product": "Christmas Reindeer",
+      "profile": "Reindeer 135 mm",
+      "profileUrl": "https://makerworld.com/en/models/2003920-christmas-reindeer#profileId-2157911",
+      "plates": 1,
+      "displayedTotal": "21 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 21.0
+        }
+      ],
+      "weightGrams": 21.0,
+      "materialCostSEK": 8.4,
+      "salesPriceSEK": 16.8,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "J-128",
+      "product": "Knitted Hanging Christmas Star – 3 Sizes",
+      "profile": "Knitted Hanging Christmas Star – 3 Sizes",
+      "profileUrl": "https://makerworld.com/en/models/3330084-knitted-hanging-christmas-star-3-sizes#profileId-3782050",
+      "plates": 3,
+      "displayedTotal": "57 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 19.0
+        },
+        {
+          "material": "PLA",
+          "grams": 24.0
+        },
+        {
+          "material": "PLA",
+          "grams": 14.0
+        }
+      ],
+      "weightGrams": 57.0,
+      "materialCostSEK": 22.8,
+      "salesPriceSEK": 45.6,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "J-129",
+      "product": "Knitted Reindeer Figurine – Cozy Christmas Decor",
+      "profile": "0.16mm layer, 2 walls, 15% infill",
+      "profileUrl": "https://makerworld.com/en/models/2075528-knitted-reindeer-figurine-cozy-christmas-decor#profileId-2243133",
+      "plates": 1,
+      "displayedTotal": "62 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 62.0
+        }
+      ],
+      "weightGrams": 62.0,
+      "materialCostSEK": 24.8,
+      "salesPriceSEK": 49.6,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "J-130",
+      "product": "Filigree Star Christmas Tree Topper",
+      "profile": "0.12mm layer, 2 walls, 15% infill",
+      "profileUrl": "https://makerworld.com/en/models/2016679-filigree-star-christmas-tree-topper#profileId-2172969",
+      "plates": 1,
+      "displayedTotal": "257 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 257.0
+        }
+      ],
+      "weightGrams": 257.0,
+      "materialCostSEK": 102.8,
+      "salesPriceSEK": 205.6,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "J-131",
+      "product": "Christmas village bauble/ornament",
+      "profile": "0.08mm layer, 2 walls, 15% infill",
+      "profileUrl": "https://makerworld.com/en/models/857099-christmas-village-bauble-ornament#profileId-806601",
+      "plates": 1,
+      "displayedTotal": "9 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 4.0
+        },
+        {
+          "material": "PLA",
+          "grams": 1.0
+        },
+        {
+          "material": "PLA",
+          "grams": 2.0
+        },
+        {
+          "material": "PLA",
+          "grams": 2.0
+        }
+      ],
+      "weightGrams": 9.0,
+      "materialCostSEK": 3.6,
+      "salesPriceSEK": 7.2,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "J-132",
+      "product": "Cute minimalist Christmas reindeer decoration",
+      "profile": "0.16mm layer, 3 walls, 15% infill",
+      "profileUrl": "https://makerworld.com/en/models/2008162-cute-minimalist-christmas-reindeer-decoration#profileId-2162987",
+      "plates": 1,
+      "displayedTotal": "40 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 40.0
+        }
+      ],
+      "weightGrams": 40.0,
+      "materialCostSEK": 16.0,
+      "salesPriceSEK": 32.0,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "J-133",
+      "product": "Inseparable Gnomes - No AMS",
+      "profile": "Original - 2 Gnomes",
+      "profileUrl": "https://makerworld.com/en/models/2078489-inseparable-gnomes-no-ams#profileId-2245698",
+      "plates": 8,
+      "displayedTotal": "200 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 112.0
+        },
+        {
+          "material": "PLA",
+          "grams": 65.0
+        },
+        {
+          "material": "PLA",
+          "grams": 6.0
+        },
+        {
+          "material": "PLA",
+          "grams": 17.0
+        }
+      ],
+      "weightGrams": 200.0,
+      "materialCostSEK": 80.0,
+      "salesPriceSEK": 160.0,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "J-134",
+      "product": "10 Christmas pendants – Easy decorations - NO AMS",
+      "profile": "0.2mm layer, 2 walls, 15% infill",
+      "profileUrl": "https://makerworld.com/en/models/3260710-10-christmas-pendants-easy-decorations-no-ams#profileId-3696474",
+      "plates": 1,
+      "displayedTotal": "27 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 27.0
+        }
+      ],
+      "weightGrams": 27.0,
+      "materialCostSEK": 10.8,
+      "salesPriceSEK": 21.6,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "J-135",
+      "product": "Weihnachtsschmuck",
+      "profile": "Elegant Christmas Ornaments",
+      "profileUrl": "https://makerworld.com/en/models/3101541-weihnachtsschmuck#profileId-3496055",
+      "plates": 5,
+      "displayedTotal": "131 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 131.0
+        }
+      ],
+      "weightGrams": 131.0,
+      "materialCostSEK": 52.4,
+      "salesPriceSEK": 104.8,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "J-136",
+      "product": "Christmas Ball (editable)",
+      "profile": "0.2mm layer, 2 walls, 15% infill",
+      "profileUrl": "https://makerworld.com/en/models/840408-christmas-ball-editable#profileId-808362",
+      "plates": 1,
+      "displayedTotal": "13 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 6.0
+        },
+        {
+          "material": "PLA",
+          "grams": 7.0
+        }
+      ],
+      "weightGrams": 13.0,
+      "materialCostSEK": 5.2,
+      "salesPriceSEK": 10.4,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "J-137",
+      "product": "Christmas Tree Ornament",
+      "profile": "Tree ornament",
+      "profileUrl": "https://makerworld.com/en/models/2118408-christmas-tree-ornament#profileId-2292731",
+      "plates": 1,
+      "displayedTotal": "13 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 13.0
+        }
+      ],
+      "weightGrams": 13.0,
+      "materialCostSEK": 5.2,
+      "salesPriceSEK": 10.4,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "J-138",
+      "product": "Christmas tree",
+      "profile": "0.2mm layer, 2 walls, 15% infill",
+      "profileUrl": "https://makerworld.com/en/models/802130-christmas-tree#profileId-742218",
+      "plates": 1,
+      "displayedTotal": "46 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 46.0
+        }
+      ],
+      "weightGrams": 46.0,
+      "materialCostSEK": 18.4,
+      "salesPriceSEK": 36.8,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "J-139",
+      "product": "Christmas nativity scene",
+      "profile": "Nativity scene",
+      "profileUrl": "https://makerworld.com/en/models/1955451-christmas-nativity-scene#profileId-2101589",
+      "plates": 1,
+      "displayedTotal": "24 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 24.0
+        }
+      ],
+      "weightGrams": 24.0,
+      "materialCostSEK": 9.6,
+      "salesPriceSEK": 19.2,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "J-140",
+      "product": "Cozy Knit Snowman – Knitted Winter Decoration",
+      "profile": "0.2mm layer, 2 walls, 5% infill, AMS",
+      "profileUrl": "https://makerworld.com/en/models/3449265-cozy-knit-snowman-knitted-winter-decoration#profileId-3934657",
+      "plates": 1,
+      "displayedTotal": "242 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 148.0
+        },
+        {
+          "material": "PLA",
+          "grams": 75.0
+        },
+        {
+          "material": "PLA",
+          "grams": 12.0
+        },
+        {
+          "material": "PLA",
+          "grams": 7.0
+        }
+      ],
+      "weightGrams": 242.0,
+      "materialCostSEK": 96.8,
+      "salesPriceSEK": 193.6,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "J-141",
+      "product": "Knitted Fir Tree Tealight Holder",
+      "profile": "0.16mm layer, 1 walls, 10% infill",
+      "profileUrl": "https://makerworld.com/en/models/3327426-knitted-fir-tree-tealight-holder#profileId-3778872",
+      "plates": 1,
+      "displayedTotal": "47 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 47.0
+        }
+      ],
+      "weightGrams": 47.0,
+      "materialCostSEK": 18.8,
+      "salesPriceSEK": 37.6,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "J-142",
+      "product": "Little Christmas Deer",
+      "profile": "Mix (14x) 0.16mm layer, 2 walls, 15% infill",
+      "profileUrl": "https://makerworld.com/en/models/808099-little-christmas-deer#profileId-748944",
+      "plates": 1,
+      "displayedTotal": "24 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 24.0
+        }
+      ],
+      "weightGrams": 24.0,
+      "materialCostSEK": 9.6,
+      "salesPriceSEK": 19.2,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "J-143",
+      "product": "Christmas Tree Minimalistic Decor No Supports Art",
+      "profile": "with star no supports 0.2mm layer, 2 walls, 5% infill",
+      "profileUrl": "https://makerworld.com/en/models/3338545-christmas-tree-minimalistic-decor-no-supports-art#profileId-3792394",
+      "plates": 2,
+      "displayedTotal": "40 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 40.0
+        }
+      ],
+      "weightGrams": 40.0,
+      "materialCostSEK": 16.0,
+      "salesPriceSEK": 32.0,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "J-144",
+      "product": "Personalized Christmas Ornaments",
+      "profile": "0.2mm layer, 2 walls, 15% infill",
+      "profileUrl": "https://makerworld.com/en/models/793332-personalized-christmas-ornaments#profileId-732036",
+      "plates": 1,
+      "displayedTotal": "58 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 43.0
+        },
+        {
+          "material": "PLA",
+          "grams": 8.0
+        },
+        {
+          "material": "PLA",
+          "grams": 7.0
+        }
+      ],
+      "weightGrams": 58.0,
+      "materialCostSEK": 23.2,
+      "salesPriceSEK": 46.4,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "J-145",
+      "product": "Riesenrad Snowflake",
+      "profile": "0.2mm layer, 2 walls, 15% infill",
+      "profileUrl": "https://makerworld.com/en/models/1968986-riesenrad-snowflake#profileId-2116926",
+      "plates": 11,
+      "displayedTotal": "477 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 5.0
+        },
+        {
+          "material": "PLA",
+          "grams": 217.0
+        },
+        {
+          "material": "PLA",
+          "grams": 175.0
+        },
+        {
+          "material": "PLA",
+          "grams": 80.0
+        }
+      ],
+      "weightGrams": 477.0,
+      "materialCostSEK": 190.8,
+      "salesPriceSEK": 381.6,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "J-146",
+      "product": "ornaments • xmas 2025",
+      "profile": "ornaments • 4 design options",
+      "profileUrl": "https://makerworld.com/en/models/2063478-ornaments-xmas-2025#profileId-2228133",
+      "plates": 5,
+      "displayedTotal": "162 g",
+      "filaments": [
+        {
+          "material": "PETG",
+          "grams": 14.0
+        },
+        {
+          "material": "PLA",
+          "grams": 74.0
+        },
+        {
+          "material": "PLA",
+          "grams": 37.0
+        },
+        {
+          "material": "PLA",
+          "grams": 37.0
+        }
+      ],
+      "weightGrams": 162.0,
+      "materialCostSEK": 64.8,
+      "salesPriceSEK": 129.6,
+      "needsPlaCheck": true
+    },
+    {
+      "sku": "J-147",
+      "product": "Christmas Tree Bowls (Stackable)",
+      "profile": "For A1/P1/X1",
+      "profileUrl": "https://makerworld.com/en/models/2134302-christmas-tree-bowls-stackable#profileId-2311537",
+      "plates": 2,
+      "displayedTotal": "140 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 70.0
+        },
+        {
+          "material": "PLA",
+          "grams": 70.0
+        }
+      ],
+      "weightGrams": 140.0,
+      "materialCostSEK": 56.0,
+      "salesPriceSEK": 112.0,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "J-148",
+      "product": "Japandi Christmas Ball",
+      "profile": "Japandi Ball 70 mm",
+      "profileUrl": "https://makerworld.com/en/models/2065097-japandi-christmas-ball#profileId-2230009",
+      "plates": 2,
+      "displayedTotal": "76 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 49.0
+        },
+        {
+          "material": "PLA",
+          "grams": 27.0
+        }
+      ],
+      "weightGrams": 76.0,
+      "materialCostSEK": 30.4,
+      "salesPriceSEK": 60.8,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "J-149",
+      "product": "Tea light house",
+      "profile": "Tealight Village several plates",
+      "profileUrl": "https://makerworld.com/en/models/1895187-tea-light-house#profileId-2090694",
+      "plates": 5,
+      "displayedTotal": "252 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 252.0
+        }
+      ],
+      "weightGrams": 252.0,
+      "materialCostSEK": 100.8,
+      "salesPriceSEK": 201.6,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "J-150",
+      "product": "Funny Christmas tree",
+      "profile": "A1 - 0.2mm layer, 2 walls, 4% infill",
+      "profileUrl": "https://makerworld.com/en/models/2037901-funny-christmas-tree#profileId-2198422",
+      "plates": 2,
+      "displayedTotal": "139 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 20.0
+        },
+        {
+          "material": "PLA",
+          "grams": 17.0
+        },
+        {
+          "material": "PLA",
+          "grams": 98.0
+        },
+        {
+          "material": "PLA",
+          "grams": 4.0
+        }
+      ],
+      "weightGrams": 139.0,
+      "materialCostSEK": 55.6,
+      "salesPriceSEK": 111.2,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "J-151",
+      "product": "Elegant Christmas Bauble",
+      "profile": "Bauble 0.08mm layer, 2 walls, 100% infill",
+      "profileUrl": "https://makerworld.com/en/models/849906-elegant-christmas-bauble#profileId-797638",
+      "plates": 1,
+      "displayedTotal": "17 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 3.0
+        },
+        {
+          "material": "PLA",
+          "grams": 5.0
+        },
+        {
+          "material": "PLA",
+          "grams": 9.0
+        }
+      ],
+      "weightGrams": 17.0,
+      "materialCostSEK": 6.8,
+      "salesPriceSEK": 13.6,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "J-152",
+      "product": "Collection 1 – 5 Light Up Christmas Baubles",
+      "profile": "Child decorating the tree",
+      "profileUrl": "https://makerworld.com/en/models/3249531-collection-1-5-light-up-christmas-baubles#profileId-3682544",
+      "plates": 1,
+      "displayedTotal": "129 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 129.0
+        }
+      ],
+      "weightGrams": 129.0,
+      "materialCostSEK": 51.6,
+      "salesPriceSEK": 103.2,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "J-153",
+      "product": "Meshed Christmas Ornaments - Tea Light Compatible",
+      "profile": "Multi Color with AMS",
+      "profileUrl": "https://makerworld.com/en/models/777746-meshed-christmas-ornaments-tea-light-compatible#profileId-714529",
+      "plates": 3,
+      "displayedTotal": "68 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 42.0
+        },
+        {
+          "material": "PLA",
+          "grams": 2.0
+        },
+        {
+          "material": "PLA",
+          "grams": 24.0
+        }
+      ],
+      "weightGrams": 68.0,
+      "materialCostSEK": 27.2,
+      "salesPriceSEK": 54.4,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "J-154",
+      "product": "Tealight houses with winter landscape",
+      "profile": "Standard",
+      "profileUrl": "https://makerworld.com/en/models/2021342-tealight-houses-with-winter-landscape#profileId-2178451",
+      "plates": 2,
+      "displayedTotal": "666 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 666.0
+        }
+      ],
+      "weightGrams": 666.0,
+      "materialCostSEK": 266.4,
+      "salesPriceSEK": 532.8,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "J-155",
+      "product": "Christmas Bauble / Ornament / Decoration",
+      "profile": "0.08mm layer, 2 walls, 100% infill",
+      "profileUrl": "https://makerworld.com/en/models/1810774-christmas-bauble-ornament-decoration#profileId-1931817",
+      "plates": 1,
+      "displayedTotal": "14 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 4.0
+        },
+        {
+          "material": "PLA",
+          "grams": 10.0
+        }
+      ],
+      "weightGrams": 14.0,
+      "materialCostSEK": 5.6,
+      "salesPriceSEK": 11.2,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "J-156",
+      "product": "Wreath-Shaped Photo Frame Ornament  Snap-Fit",
+      "profile": "0.2mm layer, 2 walls, 15% infill",
+      "profileUrl": "https://makerworld.com/en/models/2128558-wreath-shaped-photo-frame-ornament-snap-fit#profileId-2304755",
+      "plates": 1,
+      "displayedTotal": "7 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 7.0
+        }
+      ],
+      "weightGrams": 7.0,
+      "materialCostSEK": 2.8,
+      "salesPriceSEK": 5.6,
+      "needsPlaCheck": false
+    },
+    {
+      "sku": "J-157",
+      "product": "Christmas Angels ornaments set",
+      "profile": "Angel girl ornament 0.2mm layer, 2 walls, 15% infill",
+      "profileUrl": "https://makerworld.com/en/models/2044050-christmas-angels-ornaments-set#profileId-2205471",
+      "plates": 1,
+      "displayedTotal": "24 g",
+      "filaments": [
+        {
+          "material": "PLA",
+          "grams": 24.0
+        }
+      ],
+      "weightGrams": 24.0,
+      "materialCostSEK": 9.6,
+      "salesPriceSEK": 19.2,
+      "needsPlaCheck": false
+    }
+  ]
+}
