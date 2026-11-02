@@ -18,7 +18,7 @@ Samuels webshop finns som synlig toppruta, sidtitel, Open Graph-titel samt alt/t
 PRODUKTER OCH BILDER
 products.js innehåller redigerbar produktdata och priser i öre.
 makerworld-kallor.json innehåller modellnamn, skapare, källänk, originalbildens adress och lokal bildfil för varje artikel. Modellernas originalnamn har behållits för tydlig koppling till källan.
-Priserna beräknas från MakerWorlds filamentåtgång: 400 kr/kg och 50 % marginal, alltså 0,80 kr per gram i försäljningspris. Priset gäller en hel uppsättning av den namngivna profilen, alla plattor. Elkostnad 20 kr läggs en gång per intresselista. Extra delar, arbete, felutskrifter och frakt ingår inte i kalkylen. Profilvikter är beräknad förbrukning och måste räknas om om storlek, antal delar eller inställningar ändras. H-125, H-148 och J-146 behöver PLA-kontroll eftersom referensprofilen använder PETG helt eller delvis. Produktbilderna är skaparnas referensbilder; valet av färg ändrar inte dessa bilder.
+Priserna beräknas från MakerWorlds filamentåtgång: 400 kr/kg och 50 % marginal, alltså 0,80 kr per gram i försäljningspris. För artiklar där detta styckpris överstiger 500 kr används i stället 20 % marginal på hela artikeln (0,50 kr/g). Gränsen gäller priset före sänkning, före el och per uppsättning; exakt 500 kr behåller 50 %. Priset gäller en hel uppsättning av den namngivna profilen, alla plattor. Elkostnad 20 kr läggs en gång per intresselista. Extra delar, arbete, felutskrifter och frakt ingår inte i kalkylen. Profilvikter är beräknad förbrukning och måste räknas om om storlek, antal delar eller inställningar ändras. H-125, H-148 och J-146 behöver PLA-kontroll eftersom referensprofilen använder PETG helt eller delvis. Produktbilderna är skaparnas referensbilder; valet av färg ändrar inte dessa bilder.
 Bild- och försäljningstillstånd för de 157 modellerna har INTE verifierats. Källhänvisning ger inte automatiskt tillstånd. Kontrollera aktuell licens och eventuella separata bildrättigheter med skaparen före offentlig publicering eller försäljning. Vissa modeller kan kräva kommersiell licens. Katalogen är levererad lokalt, inte publicerad.
 
 VILLKOR
@@ -30,6 +30,12 @@ En uppsättning av varje profil: 25 198 g totalt. Detta är inte vikten av en vi
 PRICING överst i app.js styr filamentpris, marginal och el. Produktpriser räknas där om från vikt. För synkroniserade källrapporter bör även underlagsfiler uppdateras om inställningarna ändras.
 
 VALIDERING
-13 automatiska tester godkända: 400 kr/kg, riktig 50 % marginal, 157 källprofiler med vikt, kilogramomräkning, tom lista utan el, antal och vikt över färgvarianter, el endast en gång, artikelpris utan el, budgetfilter, kopierad förfrågan, färgsammanslagning, lagring/ogiltiga antal och markering av PETG-referenser.
+17 automatiska tester godkända: 400 kr/kg, riktig 50 % marginal, 157 källprofiler med vikt, kilogramomräkning, tom lista utan el, antal och vikt över färgvarianter, el endast en gång, artikelpris utan el, budgetfilter, kopierad förfrågan, färgsammanslagning, lagring/ogiltiga antal och markering av PETG-referenser.
 Webbläsartest: H-101 (545 g) + två B-110 (2 × 4 g) = 553 g, artikelsumma 442,40 kr + elkostnad 20 kr = 462,40 kr. Summorna bevarades efter omladdning. Kopieringsknappen gav lyckad återkoppling och textinnehållet verifierades i logiktest. Markeringen för osäker PLA-vikt kontrollerades.
 157 lokala bildfiler har kontrollerats. Layout granskad på dator. Separat fysisk mobiltest, nekad lagring och nekad urklippsåtkomst har inte framtvingats.
+
+LOKALA LÄNKAR
+Sidan och kopierad beställningsförfrågan innehåller inga externa modell-/profillänkar. bambulab-lankar.json sparar artnr, MakerWorld-länk (Bambu Labs modellplattform), utskriftsprofil och originalbild. JSON-underlagen används inte av sidan. Behåll dem lokalt om källorna inte ska publiceras. products.js innehåller inga externa URL:er.
+
+PRISJUSTERING
+Sju artiklar över 500 kr enligt grundpriset med 50 % marginal använder nu 20 % marginal. Exempel: H-116 ändras från 550,40 kr till 344,00 kr. Elkostnad 20 kr per lista kvarstår. Nya gränsvärdestester kontrollerar exakt 500 kr, över 500 kr, marginal, antal och att externa länkar endast finns i lokala underlag.

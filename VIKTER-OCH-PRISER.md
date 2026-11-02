@@ -2,11 +2,11 @@
 
 Kontrollerat mot MakerWorlds profilvyer 2026-11-02.
 
-**Beräkning:** 400 kr/kg = 0,40 kr/g i materialkostnad. Med 50 % marginal blir artikelpriset 0,80 kr/g. Elkostnad 20 kr tillkommer en gång per icke-tom intresselista, utan marginalpåslag.
+**Beräkning:** 400 kr/kg = 0,40 kr/g i materialkostnad. Med 50 % marginal blir artikelpriset 0,80 kr/g. Om detta styckpris överstiger 500 kr används i stället 20 % marginal på hela artikeln, dvs. 0,50 kr/g. Exakt 500 kr behåller 50 % marginal. Gränsen bedöms före elkostnad och påverkas inte av antal i listan. Elkostnad 20 kr tillkommer en gång per icke-tom intresselista, utan marginalpåslag.
 
 **Enhet:** En artikel avser en hel uppsättning enligt den namngivna profilen, inklusive alla dess plattor. Filamentåtgång är inte samma sak som färdig produktvikt. Andra storlekar, delmängder, färgbyten eller skrivarinställningar behöver räknas om.
 
-**Totalt:** En uppsättning av var och en av de 157 profilerna använder enligt profilerna 25 198 g (25,198 kg). Materialkostnad 10 079,20 kr. Artikelpriser sammanlagt 20 158,40 kr, plus 20 kr el om allt samlas i en intresselista.
+**Totalt:** En uppsättning av var och en av de 157 profilerna använder enligt profilerna 25 198 g (25,198 kg). Materialkostnad 10 079,20 kr. Artikelpriser sammanlagt 18 056,30 kr, plus 20 kr el om allt samlas i en intresselista.
 
 **Tre osäkerheter:** H-125 och H-148 har PETG-profiler. J-146 blandar PLA och PETG. Deras vikter är källbelagda referensvikter, men PLA-åtgången är inte verifierad. Katalogen markerar dessa priser och berörda totalsummor som preliminära.
 
@@ -19,7 +19,7 @@ Där totalsiffran avrundas till kilogram på MakerWorld används summan av profi
 | H-103 | [The Ultimate Parametric Drawer Organizer System](https://makerworld.com/en/models/2098816-the-ultimate-parametric-drawer-organizer-system#profileId-2269540) — 0.2mm layer, 2 walls, 15% infill | 1 | 63 | 25.20 | 50.40 | PLA |
 | H-104 | [Modern Japandi Desk Organizer (2 versions, NO-AMS)](https://makerworld.com/en/models/1566380-modern-japandi-desk-organizer-2-versions-no-ams#profileId-1646733) — 0.2mm layer, 2 walls, 15% infill | 3 | 301 | 120.40 | 240.80 | PLA |
 | H-105 | [Beauty Cosmetic Modular Organizer](https://makerworld.com/en/models/2417665-beauty-cosmetic-modular-organizer#profileId-2651205) — Beauty Organizer | 1 | 265 | 106.00 | 212.00 | PLA |
-| H-106 | [Module ⬝ Desk Organizer](https://makerworld.com/en/models/3043752-module-desk-organizer#profileId-3423024) — Module ⬝ Desk Organizer | 17 | 2084 | 833.60 | 1667.20 | PLA |
+| H-106 | [Module ⬝ Desk Organizer](https://makerworld.com/en/models/3043752-module-desk-organizer#profileId-3423024) — Module ⬝ Desk Organizer | 17 | 2084 | 833.60 | 1042.00 | PLA |
 | H-107 | [Office Desk Organizer with Integrated Phone Holder](https://makerworld.com/en/models/1726061-office-desk-organizer-with-integrated-phone-holder#profileId-1832704) — 0.2mm layer, 3 walls, 15% infill | 2 | 270 | 108.00 | 216.00 | PLA |
 | H-108 | [Grain Desk Organizer](https://makerworld.com/en/models/2337123-grain-desk-organizer#profileId-2554458) — 0.2mm layer, 2 walls, 7% infill | 1 | 164 | 65.60 | 131.20 | PLA |
 | H-109 | [Minimalist Entryway Organizer](https://makerworld.com/en/models/2986713-minimalist-entryway-organizer#profileId-3351566) — 0.16mm layer, 2 walls, 15% infill | 1 | 268 | 107.20 | 214.40 | PLA |
@@ -28,11 +28,11 @@ Där totalsiffran avrundas till kilogram på MakerWorld används summan av profi
 | H-112 | [BUCKETS MINI's - Stackable Organizer - no support](https://makerworld.com/en/models/2253348-buckets-mini-s-stackable-organizer-no-support#profileId-2454251) — 0.2mm layer, 2 walls, 5% infill | 4 | 261 | 104.40 | 208.80 | PLA |
 | H-113 | [Post-it Desk Organizer](https://makerworld.com/en/models/1333643-post-it-desk-organizer#profileId-1372516) — 0.2mm layer, 2 walls, 5% infill | 1 | 88 | 35.20 | 70.40 | PLA |
 | H-114 | [6-Drawer Desk Organizer — Tall Drawer Edition](https://makerworld.com/en/models/2038436-6-drawer-desk-organizer-tall-drawer-edition#profileId-2199022) — Desk organizer 3x2 Tall V1 | 3 | 424 | 169.60 | 339.20 | PLA |
-| H-115 | [Stackable Desktop Organizer – clean & modular](https://makerworld.com/en/models/2734467-stackable-desktop-organizer-clean-modular#profileId-3031250) — Small Drawers | 8 | 1224 | 489.60 | 979.20 | PLA |
-| H-116 | [Workshop / Desk Organizer / Stackable / 3 Sizes](https://makerworld.com/en/models/919813-workshop-desk-organizer-stackable-3-sizes#profileId-881756) — A1/P1/X1- Big Size - NO OVERHANG | 3 | 688 | 275.20 | 550.40 | PLA |
+| H-115 | [Stackable Desktop Organizer – clean & modular](https://makerworld.com/en/models/2734467-stackable-desktop-organizer-clean-modular#profileId-3031250) — Small Drawers | 8 | 1224 | 489.60 | 612.00 | PLA |
+| H-116 | [Workshop / Desk Organizer / Stackable / 3 Sizes](https://makerworld.com/en/models/919813-workshop-desk-organizer-stackable-3-sizes#profileId-881756) — A1/P1/X1- Big Size - NO OVERHANG | 3 | 688 | 275.20 | 344.00 | PLA |
 | H-117 | [Ultimate Minimal  Self-Draining Bathroom Vanity](https://makerworld.com/en/models/2094889-ultimate-minimal-self-draining-bathroom-vanity#profileId-2264934) — 0.2mm layer, 2 walls, 15% infill | 2 | 472 | 188.80 | 377.60 | PLA |
 | H-118 | [Modular Desk Organizer & Tool Tower](https://makerworld.com/en/models/1835209-modular-desk-organizer-tool-tower#profileId-2397449) — 0.2mm layer, 2 walls, 15% infill | 3 | 484 | 193.60 | 387.20 | PLA |
-| H-119 | [Desk Paper Organizer - Letter+A4 / A5 / 12x12](https://makerworld.com/en/models/1647352-desk-paper-organizer-letter-a4-a5-12x12#profileId-1741215) — A4/LETTER 5F portrait V2 | 12 | 907 | 362.80 | 725.60 | PLA |
+| H-119 | [Desk Paper Organizer - Letter+A4 / A5 / 12x12](https://makerworld.com/en/models/1647352-desk-paper-organizer-letter-a4-a5-12x12#profileId-1741215) — A4/LETTER 5F portrait V2 | 12 | 907 | 362.80 | 453.50 | PLA |
 | H-120 | [Mini School Locker – 3D Printed Desk Organizer](https://makerworld.com/en/models/2724278-mini-school-locker-3d-printed-desk-organizer#profileId-3018365) — 2 color 0.2mm layer, 2 walls, 15% infill | 4 | 558 | 223.20 | 446.40 | PLA |
 | H-121 | [Kitchen Organizer with Cloth Holder (Sink Rack)](https://makerworld.com/en/models/2458143-kitchen-organizer-with-cloth-holder-sink-rack#profileId-2698862) — Default Design | 1 | 168 | 67.20 | 134.40 | PLA |
 | H-122 | [Kumiko Desk Organizer](https://makerworld.com/en/models/1288105-kumiko-desk-organizer#profileId-1317726) — Body | 1 | 137 | 54.80 | 109.60 | PLA |
@@ -42,7 +42,7 @@ Där totalsiffran avrundas till kilogram på MakerWorld används summan av profi
 | H-126 | [Sink Organizer with Cloth Holder (Kitchen Rack)](https://makerworld.com/en/models/2341207-sink-organizer-with-cloth-holder-kitchen-rack#profileId-2575519) — Gitter 0.2mm layer, 2 walls, 5% infill | 2 | 204 | 81.60 | 163.20 | PLA |
 | H-127 | [Spinning Desk Organizer](https://makerworld.com/en/models/1828747-spinning-desk-organizer#profileId-1952544) — 0.2mm layer, 2 walls, 15% infill | 2 | 370 | 148.00 | 296.00 | PLA |
 | H-128 | [Modular Stackable Corner Storage Ventilated](https://makerworld.com/en/models/2075071-modular-stackable-corner-storage-ventilated#profileId-2241595) — 0.2mm layer, 2 walls, 10% infill | 1 | 377 | 150.80 | 301.60 | PLA |
-| H-129 | [Poly-Desk Organizer](https://makerworld.com/en/models/1820511-poly-desk-organizer#profileId-1943199) — Poly-Desk Organizer | 6 | 752 | 300.80 | 601.60 | PLA |
+| H-129 | [Poly-Desk Organizer](https://makerworld.com/en/models/1820511-poly-desk-organizer#profileId-1943199) — Poly-Desk Organizer | 6 | 752 | 300.80 | 376.00 | PLA |
 | H-130 | [Kitchen Utensil Organizer](https://makerworld.com/en/models/1270074-kitchen-utensil-organizer#profileId-1329884) — 0.2mm layer, 3 walls, 15% infill | 1 | 174 | 69.60 | 139.20 | PLA |
 | H-131 | [Stackable Shelf Organizer](https://makerworld.com/en/models/426986-stackable-shelf-organizer#profileId-330940) — Standard Tray | 1 | 45 | 18.00 | 36.00 | PLA |
 | H-132 | [Modern Bathroom Caddy Organizer](https://makerworld.com/en/models/2705954-modern-bathroom-caddy-organizer#profileId-2999250) — ams color change 0.2mm layer, 2 walls, 5% infill | 1 | 284 | 113.60 | 227.20 | PLA |
@@ -119,7 +119,7 @@ Där totalsiffran avrundas till kilogram på MakerWorld används summan av profi
 | J-103 | [Puffy Coquette Bow Christmas Ornament](https://makerworld.com/en/models/2004549-puffy-coquette-bow-christmas-ornament#profileId-2158660) — 0.2mm layer, 2 walls, 3% infill | 1 | 24 | 9.60 | 19.20 | PLA |
 | J-104 | [Christmas Ornaments Line Art](https://makerworld.com/en/models/3354016-christmas-ornaments-line-art#profileId-3812412) — Christmas Ornaments Line Art | 2 | 30 | 12.00 | 24.00 | PLA |
 | J-105 | [Rudolph Ornament - Perfect for Christmas - Deer](https://makerworld.com/en/models/1995449-rudolph-ornament-perfect-for-christmas-deer#profileId-2153007) — 80mm height - 1 color | 1 | 23 | 9.20 | 18.40 | PLA |
-| J-106 | [Modern Christmas ornaments  - baubles decoration](https://makerworld.com/en/models/2081246-modern-christmas-ornaments-baubles-decoration#profileId-2248923) — 0.16mm layer, 2 walls, 10% infill | 10 | 686 | 274.40 | 548.80 | PLA |
+| J-106 | [Modern Christmas ornaments  - baubles decoration](https://makerworld.com/en/models/2081246-modern-christmas-ornaments-baubles-decoration#profileId-2248923) — 0.16mm layer, 2 walls, 10% infill | 10 | 686 | 274.40 | 343.00 | PLA |
 | J-107 | [Spiral Ornament / Minimal Material](https://makerworld.com/en/models/2011443-spiral-ornament-minimal-material#profileId-2166938) — P2S/P1S/Structural Shell Tune/Lightweight/Add Suport | 1 | 28 | 11.20 | 22.40 | PLA |
 | J-108 | [Organic Modern Christmas Collection](https://makerworld.com/en/models/3383711-organic-modern-christmas-collection#profileId-3850153) — Christmas Figures (4 PLATES), 0.2mm layer | 4 | 83 | 33.20 | 66.40 | PLA |
 | J-109 | [Christmas Gift Tag Christmas Ornament](https://makerworld.com/en/models/3366829-christmas-gift-tag-christmas-ornament#profileId-3828802) — 0.2mm layer, 2 walls, 15% infill | 1 | 20 | 8.00 | 16.00 | PLA |
@@ -167,7 +167,7 @@ Där totalsiffran avrundas till kilogram på MakerWorld används summan av profi
 | J-151 | [Elegant Christmas Bauble](https://makerworld.com/en/models/849906-elegant-christmas-bauble#profileId-797638) — Bauble 0.08mm layer, 2 walls, 100% infill | 1 | 17 | 6.80 | 13.60 | PLA |
 | J-152 | [Collection 1 – 5 Light Up Christmas Baubles](https://makerworld.com/en/models/3249531-collection-1-5-light-up-christmas-baubles#profileId-3682544) — Child decorating the tree | 1 | 129 | 51.60 | 103.20 | PLA |
 | J-153 | [Meshed Christmas Ornaments - Tea Light Compatible](https://makerworld.com/en/models/777746-meshed-christmas-ornaments-tea-light-compatible#profileId-714529) — Multi Color with AMS | 3 | 68 | 27.20 | 54.40 | PLA |
-| J-154 | [Tealight houses with winter landscape](https://makerworld.com/en/models/2021342-tealight-houses-with-winter-landscape#profileId-2178451) — Standard | 2 | 666 | 266.40 | 532.80 | PLA |
+| J-154 | [Tealight houses with winter landscape](https://makerworld.com/en/models/2021342-tealight-houses-with-winter-landscape#profileId-2178451) — Standard | 2 | 666 | 266.40 | 333.00 | PLA |
 | J-155 | [Christmas Bauble / Ornament / Decoration](https://makerworld.com/en/models/1810774-christmas-bauble-ornament-decoration#profileId-1931817) — 0.08mm layer, 2 walls, 100% infill | 1 | 14 | 5.60 | 11.20 | PLA |
 | J-156 | [Wreath-Shaped Photo Frame Ornament  Snap-Fit](https://makerworld.com/en/models/2128558-wreath-shaped-photo-frame-ornament-snap-fit#profileId-2304755) — 0.2mm layer, 2 walls, 15% infill | 1 | 7 | 2.80 | 5.60 | PLA |
 | J-157 | [Christmas Angels ornaments set](https://makerworld.com/en/models/2044050-christmas-angels-ornaments-set#profileId-2205471) — Angel girl ornament 0.2mm layer, 2 walls, 15% infill | 1 | 24 | 9.60 | 19.20 | PLA |

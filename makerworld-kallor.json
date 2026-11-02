@@ -23,7 +23,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "H-102",
@@ -45,7 +46,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "H-103",
@@ -67,7 +69,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "H-104",
@@ -89,7 +92,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "H-105",
@@ -111,12 +115,13 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "H-106",
     "name": "Module ⬝ Desk Organizer",
-    "price": 166720,
+    "price": 104200,
     "category": "home",
     "image": "images/H-106.webp",
     "source": "https://makerworld.com/en/models/3043752-module-desk-organizer",
@@ -137,7 +142,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.2
   },
   {
     "sku": "H-107",
@@ -159,7 +165,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "H-108",
@@ -181,7 +188,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "H-109",
@@ -203,7 +211,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "H-110",
@@ -225,7 +234,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "H-111",
@@ -247,7 +257,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "H-112",
@@ -273,7 +284,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "H-113",
@@ -295,7 +307,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "H-114",
@@ -317,12 +330,13 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "H-115",
     "name": "Stackable Desktop Organizer – clean & modular",
-    "price": 97920,
+    "price": 61200,
     "category": "home",
     "image": "images/H-115.webp",
     "source": "https://makerworld.com/en/models/2734467-stackable-desktop-organizer-clean-modular",
@@ -339,12 +353,13 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.2
   },
   {
     "sku": "H-116",
     "name": "Workshop / Desk Organizer / Stackable / 3 Sizes",
-    "price": 55040,
+    "price": 34400,
     "category": "home",
     "image": "images/H-116.webp",
     "source": "https://makerworld.com/en/models/919813-workshop-desk-organizer-stackable-3-sizes",
@@ -365,7 +380,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.2
   },
   {
     "sku": "H-117",
@@ -387,7 +403,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "H-118",
@@ -409,12 +426,13 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "H-119",
     "name": "Desk Paper Organizer - Letter+A4 / A5 / 12x12",
-    "price": 72560,
+    "price": 45350,
     "category": "home",
     "image": "images/H-119.webp",
     "source": "https://makerworld.com/en/models/1647352-desk-paper-organizer-letter-a4-a5-12x12",
@@ -431,7 +449,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.2
   },
   {
     "sku": "H-120",
@@ -457,7 +476,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "H-121",
@@ -479,7 +499,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "H-122",
@@ -501,7 +522,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "H-123",
@@ -523,7 +545,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "H-124",
@@ -545,7 +568,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "H-125",
@@ -567,7 +591,8 @@
       }
     ],
     "weightNeedsPlaCheck": true,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "H-126",
@@ -589,7 +614,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "H-127",
@@ -615,7 +641,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "H-128",
@@ -637,12 +664,13 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "H-129",
     "name": "Poly-Desk Organizer",
-    "price": 60160,
+    "price": 37600,
     "category": "home",
     "image": "images/H-129.webp",
     "source": "https://makerworld.com/en/models/1820511-poly-desk-organizer",
@@ -667,7 +695,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.2
   },
   {
     "sku": "H-130",
@@ -689,7 +718,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "H-131",
@@ -711,7 +741,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "H-132",
@@ -737,7 +768,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "H-133",
@@ -759,7 +791,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "H-134",
@@ -785,7 +818,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "H-135",
@@ -807,7 +841,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "H-136",
@@ -829,7 +864,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "H-137",
@@ -851,7 +887,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "H-138",
@@ -877,7 +914,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "H-139",
@@ -899,7 +937,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "H-140",
@@ -921,7 +960,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "H-141",
@@ -943,7 +983,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "H-142",
@@ -965,7 +1006,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "H-143",
@@ -987,7 +1029,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "H-144",
@@ -1009,7 +1052,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "H-145",
@@ -1031,7 +1075,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "H-146",
@@ -1057,7 +1102,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "H-147",
@@ -1079,7 +1125,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "H-148",
@@ -1101,7 +1148,8 @@
       }
     ],
     "weightNeedsPlaCheck": true,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "H-149",
@@ -1123,7 +1171,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "H-150",
@@ -1145,7 +1194,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "B-101",
@@ -1167,7 +1217,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "B-102",
@@ -1189,7 +1240,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "B-103",
@@ -1211,7 +1263,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "B-104",
@@ -1233,7 +1286,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "B-105",
@@ -1255,7 +1309,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "B-106",
@@ -1277,7 +1332,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "B-107",
@@ -1299,7 +1355,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "B-108",
@@ -1321,7 +1378,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "B-109",
@@ -1343,7 +1401,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "B-110",
@@ -1365,7 +1424,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "B-111",
@@ -1387,7 +1447,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "B-112",
@@ -1413,7 +1474,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "B-113",
@@ -1435,7 +1497,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "B-114",
@@ -1457,7 +1520,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "B-115",
@@ -1483,7 +1547,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "B-116",
@@ -1505,7 +1570,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "B-117",
@@ -1527,7 +1593,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "B-118",
@@ -1549,7 +1616,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "B-119",
@@ -1571,7 +1639,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "B-120",
@@ -1593,7 +1662,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "B-121",
@@ -1615,7 +1685,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "B-122",
@@ -1637,7 +1708,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "B-123",
@@ -1663,7 +1735,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "B-124",
@@ -1685,7 +1758,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "B-125",
@@ -1707,7 +1781,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "B-126",
@@ -1729,7 +1804,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "B-127",
@@ -1751,7 +1827,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "B-128",
@@ -1773,7 +1850,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "B-129",
@@ -1799,7 +1877,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "B-130",
@@ -1821,7 +1900,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "B-131",
@@ -1843,7 +1923,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "B-132",
@@ -1865,7 +1946,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "B-133",
@@ -1887,7 +1969,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "B-134",
@@ -1909,7 +1992,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "B-135",
@@ -1935,7 +2019,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "B-136",
@@ -1957,7 +2042,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "B-137",
@@ -1979,7 +2065,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "B-138",
@@ -2005,7 +2092,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "B-139",
@@ -2027,7 +2115,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "B-140",
@@ -2049,7 +2138,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "B-141",
@@ -2071,7 +2161,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "B-142",
@@ -2097,7 +2188,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "B-143",
@@ -2119,7 +2211,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "B-144",
@@ -2141,7 +2234,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "B-145",
@@ -2163,7 +2257,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "B-146",
@@ -2185,7 +2280,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "B-147",
@@ -2211,7 +2307,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "B-148",
@@ -2237,7 +2334,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "B-149",
@@ -2259,7 +2357,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "B-150",
@@ -2285,7 +2384,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "J-101",
@@ -2307,7 +2407,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "J-102",
@@ -2333,7 +2434,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "J-103",
@@ -2355,7 +2457,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "J-104",
@@ -2381,7 +2484,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "J-105",
@@ -2403,12 +2507,13 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "J-106",
     "name": "Modern Christmas ornaments  - baubles decoration",
-    "price": 54880,
+    "price": 34300,
     "category": "gifts",
     "image": "images/J-106.webp",
     "source": "https://makerworld.com/en/models/2081246-modern-christmas-ornaments-baubles-decoration",
@@ -2425,7 +2530,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.2
   },
   {
     "sku": "J-107",
@@ -2447,7 +2553,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "J-108",
@@ -2481,7 +2588,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "J-109",
@@ -2507,7 +2615,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "J-110",
@@ -2529,7 +2638,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "J-111",
@@ -2551,7 +2661,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "J-112",
@@ -2573,7 +2684,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "J-113",
@@ -2595,7 +2707,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "J-114",
@@ -2617,7 +2730,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "J-115",
@@ -2647,7 +2761,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "J-116",
@@ -2669,7 +2784,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "J-117",
@@ -2691,7 +2807,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "J-118",
@@ -2713,7 +2830,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "J-119",
@@ -2735,7 +2853,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "J-120",
@@ -2757,7 +2876,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "J-121",
@@ -2779,7 +2899,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "J-122",
@@ -2801,7 +2922,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "J-123",
@@ -2823,7 +2945,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "J-124",
@@ -2845,7 +2968,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "J-125",
@@ -2879,7 +3003,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "J-126",
@@ -2901,7 +3026,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "J-127",
@@ -2923,7 +3049,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "J-128",
@@ -2953,7 +3080,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "J-129",
@@ -2975,7 +3103,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "J-130",
@@ -2997,7 +3126,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "J-131",
@@ -3031,7 +3161,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "J-132",
@@ -3053,7 +3184,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "J-133",
@@ -3087,7 +3219,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "J-134",
@@ -3109,7 +3242,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "J-135",
@@ -3131,7 +3265,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "J-136",
@@ -3157,7 +3292,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "J-137",
@@ -3179,7 +3315,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "J-138",
@@ -3201,7 +3338,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "J-139",
@@ -3223,7 +3361,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "J-140",
@@ -3257,7 +3396,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "J-141",
@@ -3279,7 +3419,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "J-142",
@@ -3301,7 +3442,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "J-143",
@@ -3323,7 +3465,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "J-144",
@@ -3353,7 +3496,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "J-145",
@@ -3387,7 +3531,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "J-146",
@@ -3421,7 +3566,8 @@
       }
     ],
     "weightNeedsPlaCheck": true,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "J-147",
@@ -3447,7 +3593,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "J-148",
@@ -3473,7 +3620,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "J-149",
@@ -3495,7 +3643,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "J-150",
@@ -3529,7 +3678,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "J-151",
@@ -3559,7 +3709,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "J-152",
@@ -3581,7 +3732,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "J-153",
@@ -3611,12 +3763,13 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "J-154",
     "name": "Tealight houses with winter landscape",
-    "price": 53280,
+    "price": 33300,
     "category": "gifts",
     "image": "images/J-154.webp",
     "source": "https://makerworld.com/en/models/2021342-tealight-houses-with-winter-landscape",
@@ -3633,7 +3786,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.2
   },
   {
     "sku": "J-155",
@@ -3659,7 +3813,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "J-156",
@@ -3681,7 +3836,8 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   },
   {
     "sku": "J-157",
@@ -3703,6 +3859,7 @@
       }
     ],
     "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02"
+    "weightCheckedDate": "2026-11-02",
+    "margin": 0.5
   }
 ]
