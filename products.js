@@ -7,17 +7,17 @@ const PRODUCTS = [
     "category": "home",
     "image": "images/H-101.webp",
     "creator": "FörsterSepp",
-    "weightGrams": 545.0,
+    "weightGrams": 545,
     "profileName": "Cosmetic Organizer",
     "profilePlates": 5,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 176.0
+        "grams": 176
       },
       {
         "material": "PLA",
-        "grams": 369.0
+        "grams": 369
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -31,13 +31,13 @@ const PRODUCTS = [
     "category": "home",
     "image": "images/H-102.webp",
     "creator": "ARTICAT Realm",
-    "weightGrams": 199.0,
+    "weightGrams": 199,
     "profileName": "0.28mm layer, 2 walls, 5% infill",
     "profilePlates": 1,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 199.0
+        "grams": 199
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -51,13 +51,13 @@ const PRODUCTS = [
     "category": "home",
     "image": "images/H-103.webp",
     "creator": "Cipriani 3Design Studio",
-    "weightGrams": 63.0,
+    "weightGrams": 63,
     "profileName": "0.2mm layer, 2 walls, 15% infill",
     "profilePlates": 1,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 63.0
+        "grams": 63
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -71,13 +71,13 @@ const PRODUCTS = [
     "category": "home",
     "image": "images/H-104.webp",
     "creator": "S.Corp.",
-    "weightGrams": 301.0,
+    "weightGrams": 301,
     "profileName": "0.2mm layer, 2 walls, 15% infill",
     "profilePlates": 3,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 301.0
+        "grams": 301
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -91,42 +91,18 @@ const PRODUCTS = [
     "category": "home",
     "image": "images/H-105.webp",
     "creator": "bigzahry",
-    "weightGrams": 265.0,
+    "weightGrams": 265,
     "profileName": "Beauty Organizer",
     "profilePlates": 1,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 265.0
+        "grams": 265
       }
     ],
     "weightNeedsPlaCheck": false,
     "weightCheckedDate": "2026-11-02",
     "margin": 0.5
-  },
-  {
-    "sku": "H-106",
-    "name": "Module ⬝ Desk Organizer",
-    "price": 104200,
-    "category": "home",
-    "image": "images/H-106.webp",
-    "creator": "St3rn Design",
-    "weightGrams": 2084.0,
-    "profileName": "Module ⬝ Desk Organizer",
-    "profilePlates": 17,
-    "profileMaterials": [
-      {
-        "material": "PLA",
-        "grams": 243.0
-      },
-      {
-        "material": "PLA",
-        "grams": 1841.0
-      }
-    ],
-    "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02",
-    "margin": 0.2
   },
   {
     "sku": "H-107",
@@ -135,13 +111,13 @@ const PRODUCTS = [
     "category": "home",
     "image": "images/H-107.webp",
     "creator": "Deltaprints",
-    "weightGrams": 270.0,
+    "weightGrams": 270,
     "profileName": "0.2mm layer, 3 walls, 15% infill",
     "profilePlates": 2,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 270.0
+        "grams": 270
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -155,13 +131,13 @@ const PRODUCTS = [
     "category": "home",
     "image": "images/H-108.webp",
     "creator": "RJ",
-    "weightGrams": 164.0,
+    "weightGrams": 164,
     "profileName": "0.2mm layer, 2 walls, 7% infill",
     "profilePlates": 1,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 164.0
+        "grams": 164
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -175,13 +151,13 @@ const PRODUCTS = [
     "category": "home",
     "image": "images/H-109.webp",
     "creator": "polyana32",
-    "weightGrams": 268.0,
+    "weightGrams": 268,
     "profileName": "0.16mm layer, 2 walls, 15% infill",
     "profilePlates": 1,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 268.0
+        "grams": 268
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -195,13 +171,13 @@ const PRODUCTS = [
     "category": "home",
     "image": "images/H-110.webp",
     "creator": "TriFusion",
-    "weightGrams": 178.0,
+    "weightGrams": 178,
     "profileName": "0.24mm layer, 2 walls, 5% infill",
     "profilePlates": 1,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 178.0
+        "grams": 178
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -215,13 +191,13 @@ const PRODUCTS = [
     "category": "home",
     "image": "images/H-111.webp",
     "creator": "3d.tresd",
-    "weightGrams": 146.0,
+    "weightGrams": 146,
     "profileName": "V2 Enhanced - more authentic heart-shaped look",
     "profilePlates": 1,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 146.0
+        "grams": 146
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -235,17 +211,17 @@ const PRODUCTS = [
     "category": "home",
     "image": "images/H-112.webp",
     "creator": "SMACKMAX",
-    "weightGrams": 261.0,
+    "weightGrams": 261,
     "profileName": "0.2mm layer, 2 walls, 5% infill",
     "profilePlates": 4,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 47.0
+        "grams": 47
       },
       {
         "material": "PLA",
-        "grams": 214.0
+        "grams": 214
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -259,13 +235,13 @@ const PRODUCTS = [
     "category": "home",
     "image": "images/H-113.webp",
     "creator": "ARTICAT Realm",
-    "weightGrams": 88.0,
+    "weightGrams": 88,
     "profileName": "0.2mm layer, 2 walls, 5% infill",
     "profilePlates": 1,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 88.0
+        "grams": 88
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -279,38 +255,18 @@ const PRODUCTS = [
     "category": "home",
     "image": "images/H-114.webp",
     "creator": "Hart Prints Co.",
-    "weightGrams": 424.0,
+    "weightGrams": 424,
     "profileName": "Desk organizer 3x2 Tall V1",
     "profilePlates": 3,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 424.0
+        "grams": 424
       }
     ],
     "weightNeedsPlaCheck": false,
     "weightCheckedDate": "2026-11-02",
     "margin": 0.5
-  },
-  {
-    "sku": "H-115",
-    "name": "Stackable Desktop Organizer – clean & modular",
-    "price": 61200,
-    "category": "home",
-    "image": "images/H-115.webp",
-    "creator": "JANBERRY DESIGN",
-    "weightGrams": 1224.0,
-    "profileName": "Small Drawers",
-    "profilePlates": 8,
-    "profileMaterials": [
-      {
-        "material": "PLA",
-        "grams": 1224.0
-      }
-    ],
-    "weightNeedsPlaCheck": false,
-    "weightCheckedDate": "2026-11-02",
-    "margin": 0.2
   },
   {
     "sku": "H-116",
@@ -319,17 +275,17 @@ const PRODUCTS = [
     "category": "home",
     "image": "images/H-116.webp",
     "creator": "PaperPlaneLab",
-    "weightGrams": 688.0,
+    "weightGrams": 688,
     "profileName": "A1/P1/X1- Big Size - NO OVERHANG",
     "profilePlates": 3,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 277.0
+        "grams": 277
       },
       {
         "material": "PLA",
-        "grams": 411.0
+        "grams": 411
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -343,13 +299,13 @@ const PRODUCTS = [
     "category": "home",
     "image": "images/H-117.webp",
     "creator": "Cipriani 3Design Studio",
-    "weightGrams": 472.0,
+    "weightGrams": 472,
     "profileName": "0.2mm layer, 2 walls, 15% infill",
     "profilePlates": 2,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 472.0
+        "grams": 472
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -363,13 +319,13 @@ const PRODUCTS = [
     "category": "home",
     "image": "images/H-118.webp",
     "creator": "seby3d",
-    "weightGrams": 484.0,
+    "weightGrams": 484,
     "profileName": "0.2mm layer, 2 walls, 15% infill",
     "profilePlates": 3,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 484.0
+        "grams": 484
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -383,13 +339,13 @@ const PRODUCTS = [
     "category": "home",
     "image": "images/H-119.webp",
     "creator": "godrm-3po",
-    "weightGrams": 907.0,
+    "weightGrams": 907,
     "profileName": "A4/LETTER 5F portrait V2",
     "profilePlates": 12,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 907.0
+        "grams": 907
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -403,17 +359,17 @@ const PRODUCTS = [
     "category": "home",
     "image": "images/H-120.webp",
     "creator": "DUDKA",
-    "weightGrams": 558.0,
+    "weightGrams": 558,
     "profileName": "2 color 0.2mm layer, 2 walls, 15% infill",
     "profilePlates": 4,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 551.0
+        "grams": 551
       },
       {
         "material": "PLA",
-        "grams": 7.0
+        "grams": 7
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -427,13 +383,13 @@ const PRODUCTS = [
     "category": "home",
     "image": "images/H-121.webp",
     "creator": "Tomik s Cuprou",
-    "weightGrams": 168.0,
+    "weightGrams": 168,
     "profileName": "Default Design",
     "profilePlates": 1,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 168.0
+        "grams": 168
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -447,13 +403,13 @@ const PRODUCTS = [
     "category": "home",
     "image": "images/H-122.webp",
     "creator": "jorm",
-    "weightGrams": 137.0,
+    "weightGrams": 137,
     "profileName": "Body",
     "profilePlates": 1,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 137.0
+        "grams": 137
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -467,13 +423,13 @@ const PRODUCTS = [
     "category": "home",
     "image": "images/H-123.webp",
     "creator": "MeasureOnce",
-    "weightGrams": 104.0,
+    "weightGrams": 104,
     "profileName": "P1 X1 A1 Grooves added",
     "profilePlates": 1,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 104.0
+        "grams": 104
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -487,13 +443,13 @@ const PRODUCTS = [
     "category": "home",
     "image": "images/H-124.webp",
     "creator": "Deltaprints",
-    "weightGrams": 231.0,
+    "weightGrams": 231,
     "profileName": "0.24mm layer, 2 walls, 10% infill",
     "profilePlates": 1,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 231.0
+        "grams": 231
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -507,13 +463,13 @@ const PRODUCTS = [
     "category": "home",
     "image": "images/H-125.webp",
     "creator": "dan_cz",
-    "weightGrams": 153.0,
+    "weightGrams": 153,
     "profileName": "25mm Version Open, Under-Shelf Organizer-Small",
     "profilePlates": 1,
     "profileMaterials": [
       {
         "material": "PETG",
-        "grams": 153.0
+        "grams": 153
       }
     ],
     "weightNeedsPlaCheck": true,
@@ -527,13 +483,13 @@ const PRODUCTS = [
     "category": "home",
     "image": "images/H-126.webp",
     "creator": "TriFusion",
-    "weightGrams": 204.0,
+    "weightGrams": 204,
     "profileName": "Gitter 0.2mm layer, 2 walls, 5% infill",
     "profilePlates": 2,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 204.0
+        "grams": 204
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -547,17 +503,17 @@ const PRODUCTS = [
     "category": "home",
     "image": "images/H-127.webp",
     "creator": "KL Worx",
-    "weightGrams": 370.0,
+    "weightGrams": 370,
     "profileName": "0.2mm layer, 2 walls, 15% infill",
     "profilePlates": 2,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 294.0
+        "grams": 294
       },
       {
         "material": "PLA",
-        "grams": 76.0
+        "grams": 76
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -571,13 +527,13 @@ const PRODUCTS = [
     "category": "home",
     "image": "images/H-128.webp",
     "creator": "Cipriani 3Design Studio",
-    "weightGrams": 377.0,
+    "weightGrams": 377,
     "profileName": "0.2mm layer, 2 walls, 10% infill",
     "profilePlates": 1,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 377.0
+        "grams": 377
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -591,21 +547,21 @@ const PRODUCTS = [
     "category": "home",
     "image": "images/H-129.webp",
     "creator": "3D Paint Lab",
-    "weightGrams": 752.0,
+    "weightGrams": 752,
     "profileName": "Poly-Desk Organizer",
     "profilePlates": 6,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 203.0
+        "grams": 203
       },
       {
         "material": "PLA",
-        "grams": 230.0
+        "grams": 230
       },
       {
         "material": "PLA",
-        "grams": 319.0
+        "grams": 319
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -619,13 +575,13 @@ const PRODUCTS = [
     "category": "home",
     "image": "images/H-130.webp",
     "creator": "ARTICAT Realm",
-    "weightGrams": 174.0,
+    "weightGrams": 174,
     "profileName": "0.2mm layer, 3 walls, 15% infill",
     "profilePlates": 1,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 174.0
+        "grams": 174
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -639,13 +595,13 @@ const PRODUCTS = [
     "category": "home",
     "image": "images/H-131.webp",
     "creator": "LinkDesigns",
-    "weightGrams": 45.0,
+    "weightGrams": 45,
     "profileName": "Standard Tray",
     "profilePlates": 1,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 45.0
+        "grams": 45
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -659,17 +615,17 @@ const PRODUCTS = [
     "category": "home",
     "image": "images/H-132.webp",
     "creator": "PDFYYC",
-    "weightGrams": 284.0,
+    "weightGrams": 284,
     "profileName": "ams color change 0.2mm layer, 2 walls, 5% infill",
     "profilePlates": 1,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 122.0
+        "grams": 122
       },
       {
         "material": "PLA",
-        "grams": 162.0
+        "grams": 162
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -683,13 +639,13 @@ const PRODUCTS = [
     "category": "home",
     "image": "images/H-133.webp",
     "creator": "TeamGraphika",
-    "weightGrams": 257.0,
+    "weightGrams": 257,
     "profileName": "0.2mm layer, 2 walls, 5% infill",
     "profilePlates": 1,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 257.0
+        "grams": 257
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -703,17 +659,17 @@ const PRODUCTS = [
     "category": "home",
     "image": "images/H-134.webp",
     "creator": "eatrix",
-    "weightGrams": 369.0,
+    "weightGrams": 369,
     "profileName": "0.2mm layer, 2 walls, 10% infill",
     "profilePlates": 3,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 222.0
+        "grams": 222
       },
       {
         "material": "PLA",
-        "grams": 147.0
+        "grams": 147
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -727,13 +683,13 @@ const PRODUCTS = [
     "category": "home",
     "image": "images/H-135.webp",
     "creator": "Deltaprints",
-    "weightGrams": 125.0,
+    "weightGrams": 125,
     "profileName": "0.28mm layer, 2 walls, 5% infill",
     "profilePlates": 1,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 125.0
+        "grams": 125
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -747,13 +703,13 @@ const PRODUCTS = [
     "category": "home",
     "image": "images/H-136.webp",
     "creator": "Matthew Ghost",
-    "weightGrams": 98.0,
+    "weightGrams": 98,
     "profileName": "0.2mm layer, 2 walls, 15% infill",
     "profilePlates": 2,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 98.0
+        "grams": 98
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -767,13 +723,13 @@ const PRODUCTS = [
     "category": "home",
     "image": "images/H-137.webp",
     "creator": "obandovic",
-    "weightGrams": 80.0,
+    "weightGrams": 80,
     "profileName": "0.2mm layer, 2 walls, 10% infill",
     "profilePlates": 1,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 80.0
+        "grams": 80
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -787,17 +743,17 @@ const PRODUCTS = [
     "category": "home",
     "image": "images/H-138.webp",
     "creator": "KL Worx",
-    "weightGrams": 478.0,
+    "weightGrams": 478,
     "profileName": "0.2mm layer, 3 walls, 10% infill",
     "profilePlates": 4,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 117.0
+        "grams": 117
       },
       {
         "material": "PLA",
-        "grams": 361.0
+        "grams": 361
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -811,13 +767,13 @@ const PRODUCTS = [
     "category": "home",
     "image": "images/H-139.webp",
     "creator": "Cipriani 3Design Studio",
-    "weightGrams": 225.0,
+    "weightGrams": 225,
     "profileName": "With stacking pin",
     "profilePlates": 1,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 225.0
+        "grams": 225
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -831,13 +787,13 @@ const PRODUCTS = [
     "category": "home",
     "image": "images/H-140.webp",
     "creator": "Meyui",
-    "weightGrams": 309.0,
+    "weightGrams": 309,
     "profileName": "Desk Organizer (Extended Set)",
     "profilePlates": 3,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 309.0
+        "grams": 309
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -851,13 +807,13 @@ const PRODUCTS = [
     "category": "home",
     "image": "images/H-141.webp",
     "creator": "7CUTS",
-    "weightGrams": 86.0,
+    "weightGrams": 86,
     "profileName": "Belt Organizer Holder",
     "profilePlates": 1,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 86.0
+        "grams": 86
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -871,13 +827,13 @@ const PRODUCTS = [
     "category": "home",
     "image": "images/H-142.webp",
     "creator": "Anton",
-    "weightGrams": 166.0,
+    "weightGrams": 166,
     "profileName": "0.2mm layer, 3 walls, 15% infill",
     "profilePlates": 5,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 166.0
+        "grams": 166
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -891,13 +847,13 @@ const PRODUCTS = [
     "category": "home",
     "image": "images/H-143.webp",
     "creator": "neilvfx",
-    "weightGrams": 26.0,
+    "weightGrams": 26,
     "profileName": "Large_Biscuit",
     "profilePlates": 1,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 26.0
+        "grams": 26
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -911,13 +867,13 @@ const PRODUCTS = [
     "category": "home",
     "image": "images/H-144.webp",
     "creator": "TheHexArtist",
-    "weightGrams": 101.0,
+    "weightGrams": 101,
     "profileName": "0.16mm layer, 2 walls, 10% infill",
     "profilePlates": 1,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 101.0
+        "grams": 101
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -931,13 +887,13 @@ const PRODUCTS = [
     "category": "home",
     "image": "images/H-145.webp",
     "creator": "Adam",
-    "weightGrams": 441.0,
+    "weightGrams": 441,
     "profileName": "0.2mm layer, 2 walls, 5% infill",
     "profilePlates": 6,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 441.0
+        "grams": 441
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -951,17 +907,17 @@ const PRODUCTS = [
     "category": "home",
     "image": "images/H-146.webp",
     "creator": "Matthew Ghost",
-    "weightGrams": 46.0,
+    "weightGrams": 46,
     "profileName": "0.2mm layer, 3 walls, 25% infill",
     "profilePlates": 2,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 36.0
+        "grams": 36
       },
       {
         "material": "PLA",
-        "grams": 10.0
+        "grams": 10
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -975,13 +931,13 @@ const PRODUCTS = [
     "category": "home",
     "image": "images/H-147.webp",
     "creator": "Mesmar",
-    "weightGrams": 185.0,
+    "weightGrams": 185,
     "profileName": "original",
     "profilePlates": 4,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 185.0
+        "grams": 185
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -995,13 +951,13 @@ const PRODUCTS = [
     "category": "home",
     "image": "images/H-148.webp",
     "creator": "Cipriani 3Design Studio",
-    "weightGrams": 465.0,
+    "weightGrams": 465,
     "profileName": "0.2mm layer, 2 walls, 15% infill",
     "profilePlates": 1,
     "profileMaterials": [
       {
         "material": "PETG",
-        "grams": 465.0
+        "grams": 465
       }
     ],
     "weightNeedsPlaCheck": true,
@@ -1015,13 +971,13 @@ const PRODUCTS = [
     "category": "home",
     "image": "images/H-149.webp",
     "creator": "M3D",
-    "weightGrams": 94.0,
+    "weightGrams": 94,
     "profileName": "0.24mm layer, 2 walls, 15% infill",
     "profilePlates": 1,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 94.0
+        "grams": 94
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -1035,13 +991,13 @@ const PRODUCTS = [
     "category": "home",
     "image": "images/H-150.webp",
     "creator": "pozsar",
-    "weightGrams": 90.0,
+    "weightGrams": 90,
     "profileName": "Tree with tray",
     "profilePlates": 1,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 90.0
+        "grams": 90
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -1055,13 +1011,13 @@ const PRODUCTS = [
     "category": "kids",
     "image": "images/B-101.jpg",
     "creator": "BigDeX",
-    "weightGrams": 85.0,
+    "weightGrams": 85,
     "profileName": "0.24mm layer, 1 walls, 10% infill",
     "profilePlates": 1,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 85.0
+        "grams": 85
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -1075,13 +1031,13 @@ const PRODUCTS = [
     "category": "kids",
     "image": "images/B-102.webp",
     "creator": "Jasa Designs",
-    "weightGrams": 118.0,
+    "weightGrams": 118,
     "profileName": "0.2mm, 2 walls, 0% infill",
     "profilePlates": 2,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 118.0
+        "grams": 118
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -1095,13 +1051,13 @@ const PRODUCTS = [
     "category": "kids",
     "image": "images/B-103.webp",
     "creator": "Big-D-SyneS",
-    "weightGrams": 58.0,
+    "weightGrams": 58,
     "profileName": "MINI FIDGET 2.5 HOUR PRINT",
     "profilePlates": 1,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 58.0
+        "grams": 58
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -1115,13 +1071,13 @@ const PRODUCTS = [
     "category": "kids",
     "image": "images/B-104.webp",
     "creator": "Creonic Lab",
-    "weightGrams": 191.0,
+    "weightGrams": 191,
     "profileName": "Extra Big Size - 320x320x3.06 mm",
     "profilePlates": 1,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 191.0
+        "grams": 191
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -1135,13 +1091,13 @@ const PRODUCTS = [
     "category": "kids",
     "image": "images/B-105.webp",
     "creator": "Swampy3d",
-    "weightGrams": 88.0,
+    "weightGrams": 88,
     "profileName": "0.2mm layer, 2 walls, 15% infill",
     "profilePlates": 1,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 88.0
+        "grams": 88
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -1155,13 +1111,13 @@ const PRODUCTS = [
     "category": "kids",
     "image": "images/B-106.webp",
     "creator": "Louis",
-    "weightGrams": 15.0,
+    "weightGrams": 15,
     "profileName": "Loose fit - 0.2mm layer, 3 walls, 0% infill",
     "profilePlates": 1,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 15.0
+        "grams": 15
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -1175,13 +1131,13 @@ const PRODUCTS = [
     "category": "kids",
     "image": "images/B-107.webp",
     "creator": "DORONS WORLD",
-    "weightGrams": 47.0,
+    "weightGrams": 47,
     "profileName": "0.2mm layer, 3 walls, 15% infill",
     "profilePlates": 1,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 47.0
+        "grams": 47
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -1195,13 +1151,13 @@ const PRODUCTS = [
     "category": "kids",
     "image": "images/B-108.webp",
     "creator": "AbyssalCactus",
-    "weightGrams": 10.0,
+    "weightGrams": 10,
     "profileName": "0.2mm layer, 2 walls, 15% infill",
     "profilePlates": 1,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 10.0
+        "grams": 10
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -1215,13 +1171,13 @@ const PRODUCTS = [
     "category": "kids",
     "image": "images/B-109.jpg",
     "creator": "Zammer 3D",
-    "weightGrams": 232.0,
+    "weightGrams": 232,
     "profileName": "Large, Medium, Small and Keychain",
     "profilePlates": 4,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 232.0
+        "grams": 232
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -1235,13 +1191,13 @@ const PRODUCTS = [
     "category": "kids",
     "image": "images/B-110.webp",
     "creator": "Dominator Ivy",
-    "weightGrams": 4.0,
+    "weightGrams": 4,
     "profileName": "Separate Plates(Multi Color!!)",
     "profilePlates": 2,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 4.0
+        "grams": 4
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -1255,13 +1211,13 @@ const PRODUCTS = [
     "category": "kids",
     "image": "images/B-111.webp",
     "creator": "PotaterSoupModels",
-    "weightGrams": 76.0,
+    "weightGrams": 76,
     "profileName": "A1 Mini, Print In Place 0.2mm layer, 5 walls, 15% infill",
     "profilePlates": 1,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 76.0
+        "grams": 76
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -1275,17 +1231,17 @@ const PRODUCTS = [
     "category": "kids",
     "image": "images/B-112.jpg",
     "creator": "BigDeX",
-    "weightGrams": 87.0,
+    "weightGrams": 87,
     "profileName": "0.24mm layer, 1 walls, 10% infill",
     "profilePlates": 1,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 79.0
+        "grams": 79
       },
       {
         "material": "PLA",
-        "grams": 8.0
+        "grams": 8
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -1299,13 +1255,13 @@ const PRODUCTS = [
     "category": "kids",
     "image": "images/B-113.webp",
     "creator": "Jasa Designs",
-    "weightGrams": 150.0,
+    "weightGrams": 150,
     "profileName": "0.28mm layer, 2 walls, 15% infill",
     "profilePlates": 3,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 150.0
+        "grams": 150
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -1319,13 +1275,13 @@ const PRODUCTS = [
     "category": "kids",
     "image": "images/B-114.webp",
     "creator": "Gibbs3408",
-    "weightGrams": 46.0,
+    "weightGrams": 46,
     "profileName": "0.16mm layer, 2 walls, 15% infill",
     "profilePlates": 1,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 46.0
+        "grams": 46
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -1339,17 +1295,17 @@ const PRODUCTS = [
     "category": "kids",
     "image": "images/B-115.webp",
     "creator": "MGTOYSSS",
-    "weightGrams": 15.0,
+    "weightGrams": 15,
     "profileName": "Dual-color version B",
     "profilePlates": 2,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 8.0
+        "grams": 8
       },
       {
         "material": "PLA",
-        "grams": 7.0
+        "grams": 7
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -1363,13 +1319,13 @@ const PRODUCTS = [
     "category": "kids",
     "image": "images/B-116.webp",
     "creator": "3D Gear Solution",
-    "weightGrams": 17.0,
+    "weightGrams": 17,
     "profileName": "Nytrax - Single Color",
     "profilePlates": 1,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 17.0
+        "grams": 17
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -1383,13 +1339,13 @@ const PRODUCTS = [
     "category": "kids",
     "image": "images/B-117.webp",
     "creator": "Louis",
-    "weightGrams": 20.0,
+    "weightGrams": 20,
     "profileName": "Optimised profile",
     "profilePlates": 1,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 20.0
+        "grams": 20
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -1403,13 +1359,13 @@ const PRODUCTS = [
     "category": "kids",
     "image": "images/B-118.webp",
     "creator": "3Dealin",
-    "weightGrams": 38.0,
+    "weightGrams": 38,
     "profileName": "0.16mm layer, 2 walls, 15% infill",
     "profilePlates": 1,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 38.0
+        "grams": 38
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -1423,13 +1379,13 @@ const PRODUCTS = [
     "category": "kids",
     "image": "images/B-119.webp",
     "creator": "LangHjornArt",
-    "weightGrams": 9.0,
+    "weightGrams": 9,
     "profileName": "0.2mm layer, 6 walls, 25% infill",
     "profilePlates": 1,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 9.0
+        "grams": 9
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -1443,13 +1399,13 @@ const PRODUCTS = [
     "category": "kids",
     "image": "images/B-120.webp",
     "creator": "TomoDesigns",
-    "weightGrams": 23.0,
+    "weightGrams": 23,
     "profileName": "Joy Fidget",
     "profilePlates": 1,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 23.0
+        "grams": 23
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -1463,13 +1419,13 @@ const PRODUCTS = [
     "category": "kids",
     "image": "images/B-121.jpg",
     "creator": "Etec - Design",
-    "weightGrams": 60.0,
+    "weightGrams": 60,
     "profileName": "0.2mm layer, 2 walls, 10% infill",
     "profilePlates": 1,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 60.0
+        "grams": 60
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -1483,13 +1439,13 @@ const PRODUCTS = [
     "category": "kids",
     "image": "images/B-122.jpg",
     "creator": "DWdesigns",
-    "weightGrams": 29.0,
+    "weightGrams": 29,
     "profileName": "0.2mm layer, 2 walls, 15% infill",
     "profilePlates": 1,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 29.0
+        "grams": 29
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -1503,17 +1459,17 @@ const PRODUCTS = [
     "category": "kids",
     "image": "images/B-123.jpg",
     "creator": "BogdanS",
-    "weightGrams": 44.0,
+    "weightGrams": 44,
     "profileName": "0.2mm layer, 2 walls, 15% infill",
     "profilePlates": 2,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 17.0
+        "grams": 17
       },
       {
         "material": "PLA",
-        "grams": 27.0
+        "grams": 27
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -1527,13 +1483,13 @@ const PRODUCTS = [
     "category": "kids",
     "image": "images/B-124.webp",
     "creator": "Bad Astronaut",
-    "weightGrams": 25.0,
+    "weightGrams": 25,
     "profileName": "0.2mm layer, 2 walls, 15% infill",
     "profilePlates": 1,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 25.0
+        "grams": 25
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -1547,13 +1503,13 @@ const PRODUCTS = [
     "category": "kids",
     "image": "images/B-125.jpg",
     "creator": "Zammer 3D",
-    "weightGrams": 20.0,
+    "weightGrams": 20,
     "profileName": "Small Fidget",
     "profilePlates": 1,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 20.0
+        "grams": 20
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -1567,13 +1523,13 @@ const PRODUCTS = [
     "category": "kids",
     "image": "images/B-126.webp",
     "creator": "Eris",
-    "weightGrams": 5.0,
+    "weightGrams": 5,
     "profileName": "print both together-0.2mm layer, 2 walls, 15% infill",
     "profilePlates": 1,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 5.0
+        "grams": 5
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -1587,13 +1543,13 @@ const PRODUCTS = [
     "category": "kids",
     "image": "images/B-127.jpg",
     "creator": "haptic3D",
-    "weightGrams": 31.0,
+    "weightGrams": 31,
     "profileName": "large version",
     "profilePlates": 1,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 31.0
+        "grams": 31
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -1607,13 +1563,13 @@ const PRODUCTS = [
     "category": "kids",
     "image": "images/B-128.webp",
     "creator": "Louis",
-    "weightGrams": 5.0,
+    "weightGrams": 5,
     "profileName": "Normal tolerance",
     "profilePlates": 1,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 5.0
+        "grams": 5
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -1627,17 +1583,17 @@ const PRODUCTS = [
     "category": "kids",
     "image": "images/B-129.webp",
     "creator": "CYBZoo3d",
-    "weightGrams": 12.0,
+    "weightGrams": 12,
     "profileName": "0.2mm layer, 3 walls, 30% infill",
     "profilePlates": 1,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 11.0
+        "grams": 11
       },
       {
         "material": "PLA",
-        "grams": 1.0
+        "grams": 1
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -1651,13 +1607,13 @@ const PRODUCTS = [
     "category": "kids",
     "image": "images/B-130.webp",
     "creator": "fifindr",
-    "weightGrams": 18.0,
+    "weightGrams": 18,
     "profileName": "Squishy Fidget Loop - 0.2mm layer, 1 walls, 0% infill",
     "profilePlates": 1,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 18.0
+        "grams": 18
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -1671,13 +1627,13 @@ const PRODUCTS = [
     "category": "kids",
     "image": "images/B-131.webp",
     "creator": "ENIQUE3D",
-    "weightGrams": 32.0,
+    "weightGrams": 32,
     "profileName": "same twist but with 100% infill on the nut making it heavier",
     "profilePlates": 1,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 32.0
+        "grams": 32
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -1691,13 +1647,13 @@ const PRODUCTS = [
     "category": "kids",
     "image": "images/B-132.webp",
     "creator": "Pooch's 3D Creations",
-    "weightGrams": 60.0,
+    "weightGrams": 60,
     "profileName": "0.16mm layer, 3 walls, 5% infill",
     "profilePlates": 1,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 60.0
+        "grams": 60
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -1711,13 +1667,13 @@ const PRODUCTS = [
     "category": "kids",
     "image": "images/B-133.webp",
     "creator": "Zeno's",
-    "weightGrams": 23.0,
+    "weightGrams": 23,
     "profileName": "0.16mm layer, 2 walls, 22% infill",
     "profilePlates": 11,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 23.0
+        "grams": 23
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -1731,13 +1687,13 @@ const PRODUCTS = [
     "category": "kids",
     "image": "images/B-134.webp",
     "creator": "macjfll",
-    "weightGrams": 104.0,
+    "weightGrams": 104,
     "profileName": "0.2mm layer, 2 walls, 15% infill",
     "profilePlates": 1,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 104.0
+        "grams": 104
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -1751,17 +1707,17 @@ const PRODUCTS = [
     "category": "kids",
     "image": "images/B-135.webp",
     "creator": "Epiq3D",
-    "weightGrams": 54.0,
+    "weightGrams": 54,
     "profileName": "Multi color - Optimized for Quality",
     "profilePlates": 1,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 21.0
+        "grams": 21
       },
       {
         "material": "PLA",
-        "grams": 33.0
+        "grams": 33
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -1775,13 +1731,13 @@ const PRODUCTS = [
     "category": "kids",
     "image": "images/B-136.webp",
     "creator": "Louis",
-    "weightGrams": 15.0,
+    "weightGrams": 15,
     "profileName": "Optimized pofile, loose tolerances",
     "profilePlates": 1,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 15.0
+        "grams": 15
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -1795,13 +1751,13 @@ const PRODUCTS = [
     "category": "kids",
     "image": "images/B-137.webp",
     "creator": "Eternity Labs",
-    "weightGrams": 12.0,
+    "weightGrams": 12,
     "profileName": "Single Colour",
     "profilePlates": 1,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 12.0
+        "grams": 12
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -1815,17 +1771,17 @@ const PRODUCTS = [
     "category": "kids",
     "image": "images/B-138.webp",
     "creator": "Yoshman1984",
-    "weightGrams": 18.0,
+    "weightGrams": 18,
     "profileName": "Variant 1, small base",
     "profilePlates": 2,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 12.0
+        "grams": 12
       },
       {
         "material": "PLA",
-        "grams": 6.0
+        "grams": 6
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -1839,13 +1795,13 @@ const PRODUCTS = [
     "category": "kids",
     "image": "images/B-139.webp",
     "creator": "PROTO-X",
-    "weightGrams": 34.0,
+    "weightGrams": 34,
     "profileName": "0.2mm layer, 2 walls, 15% infill",
     "profilePlates": 1,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 34.0
+        "grams": 34
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -1859,13 +1815,13 @@ const PRODUCTS = [
     "category": "kids",
     "image": "images/B-140.jpg",
     "creator": "VirtuBOB",
-    "weightGrams": 7.0,
+    "weightGrams": 7,
     "profileName": "Original Size",
     "profilePlates": 1,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 7.0
+        "grams": 7
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -1879,13 +1835,13 @@ const PRODUCTS = [
     "category": "kids",
     "image": "images/B-141.webp",
     "creator": "Luke Edwin",
-    "weightGrams": 32.0,
+    "weightGrams": 32,
     "profileName": "0.2mm layer, 3 walls, 15% infill",
     "profilePlates": 1,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 32.0
+        "grams": 32
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -1899,17 +1855,17 @@ const PRODUCTS = [
     "category": "kids",
     "image": "images/B-142.png",
     "creator": "BeardedAngel",
-    "weightGrams": 60.0,
+    "weightGrams": 60,
     "profileName": "2 Color, With Pause, 0.16mm layer, 2 walls, 15% infill",
     "profilePlates": 3,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 26.0
+        "grams": 26
       },
       {
         "material": "PLA",
-        "grams": 34.0
+        "grams": 34
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -1923,13 +1879,13 @@ const PRODUCTS = [
     "category": "kids",
     "image": "images/B-143.webp",
     "creator": "macjfll",
-    "weightGrams": 342.0,
+    "weightGrams": 342,
     "profileName": "0.2mm layer, 2 walls, 15% infill",
     "profilePlates": 1,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 342.0
+        "grams": 342
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -1943,13 +1899,13 @@ const PRODUCTS = [
     "category": "kids",
     "image": "images/B-144.webp",
     "creator": "Tremmannaik",
-    "weightGrams": 18.0,
+    "weightGrams": 18,
     "profileName": "The Original - Single color",
     "profilePlates": 1,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 18.0
+        "grams": 18
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -1963,13 +1919,13 @@ const PRODUCTS = [
     "category": "kids",
     "image": "images/B-145.webp",
     "creator": "Louis",
-    "weightGrams": 23.0,
+    "weightGrams": 23,
     "profileName": "Optimized for fun :)",
     "profilePlates": 1,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 23.0
+        "grams": 23
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -1983,13 +1939,13 @@ const PRODUCTS = [
     "category": "kids",
     "image": "images/B-146.webp",
     "creator": "rosedoesthings",
-    "weightGrams": 59.0,
+    "weightGrams": 59,
     "profileName": "0.2mm layer, 2 walls, 15% infill",
     "profilePlates": 1,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 59.0
+        "grams": 59
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -2003,17 +1959,17 @@ const PRODUCTS = [
     "category": "kids",
     "image": "images/B-147.jpg",
     "creator": "Kaburuk",
-    "weightGrams": 30.0,
+    "weightGrams": 30,
     "profileName": "2025 Revision - 2 Color AMS Profile",
     "profilePlates": 1,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 22.0
+        "grams": 22
       },
       {
         "material": "PLA",
-        "grams": 8.0
+        "grams": 8
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -2027,17 +1983,17 @@ const PRODUCTS = [
     "category": "kids",
     "image": "images/B-148.webp",
     "creator": "Jalu",
-    "weightGrams": 40.0,
+    "weightGrams": 40,
     "profileName": "0.2mm layer, 2 walls, 15% infill",
     "profilePlates": 2,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 19.0
+        "grams": 19
       },
       {
         "material": "PLA",
-        "grams": 21.0
+        "grams": 21
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -2051,13 +2007,13 @@ const PRODUCTS = [
     "category": "kids",
     "image": "images/B-149.jpg",
     "creator": "haptic3D",
-    "weightGrams": 40.0,
+    "weightGrams": 40,
     "profileName": "large version",
     "profilePlates": 1,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 40.0
+        "grams": 40
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -2071,17 +2027,17 @@ const PRODUCTS = [
     "category": "kids",
     "image": "images/B-150.jpg",
     "creator": "Epiq3D",
-    "weightGrams": 52.0,
+    "weightGrams": 52,
     "profileName": "80% size - Optimized for quality",
     "profilePlates": 1,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 4.0
+        "grams": 4
       },
       {
         "material": "PLA",
-        "grams": 48.0
+        "grams": 48
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -2095,13 +2051,13 @@ const PRODUCTS = [
     "category": "gifts",
     "image": "images/J-101.webp",
     "creator": "Denka",
-    "weightGrams": 51.0,
+    "weightGrams": 51,
     "profileName": "0.2mm layer, 2 walls, 30% infill",
     "profilePlates": 1,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 51.0
+        "grams": 51
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -2115,17 +2071,17 @@ const PRODUCTS = [
     "category": "gifts",
     "image": "images/J-102.webp",
     "creator": "Levnur",
-    "weightGrams": 116.0,
+    "weightGrams": 116,
     "profileName": "0.16mm layer, 2 walls, 15% infill",
     "profilePlates": 8,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 114.0
+        "grams": 114
       },
       {
         "material": "PLA",
-        "grams": 2.0
+        "grams": 2
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -2139,13 +2095,13 @@ const PRODUCTS = [
     "category": "gifts",
     "image": "images/J-103.webp",
     "creator": "TheHexArtist",
-    "weightGrams": 24.0,
+    "weightGrams": 24,
     "profileName": "0.2mm layer, 2 walls, 3% infill",
     "profilePlates": 1,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 24.0
+        "grams": 24
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -2159,17 +2115,17 @@ const PRODUCTS = [
     "category": "gifts",
     "image": "images/J-104.webp",
     "creator": "SliQ",
-    "weightGrams": 30.0,
+    "weightGrams": 30,
     "profileName": "Christmas Ornaments Line Art",
     "profilePlates": 2,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 16.0
+        "grams": 16
       },
       {
         "material": "PLA",
-        "grams": 14.0
+        "grams": 14
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -2183,13 +2139,13 @@ const PRODUCTS = [
     "category": "gifts",
     "image": "images/J-105.webp",
     "creator": "BotanyChic",
-    "weightGrams": 23.0,
+    "weightGrams": 23,
     "profileName": "80mm height - 1 color",
     "profilePlates": 1,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 23.0
+        "grams": 23
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -2203,13 +2159,13 @@ const PRODUCTS = [
     "category": "gifts",
     "image": "images/J-106.webp",
     "creator": "LuckyDuck",
-    "weightGrams": 686.0,
+    "weightGrams": 686,
     "profileName": "0.16mm layer, 2 walls, 10% infill",
     "profilePlates": 10,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 686.0
+        "grams": 686
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -2223,13 +2179,13 @@ const PRODUCTS = [
     "category": "gifts",
     "image": "images/J-107.webp",
     "creator": "Bedan Designs",
-    "weightGrams": 28.0,
+    "weightGrams": 28,
     "profileName": "P2S/P1S|Structural Shell Tune|Lightweight|Add Suport",
     "profilePlates": 1,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 28.0
+        "grams": 28
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -2243,25 +2199,25 @@ const PRODUCTS = [
     "category": "gifts",
     "image": "images/J-108.webp",
     "creator": "DecoDejw",
-    "weightGrams": 83.0,
+    "weightGrams": 83,
     "profileName": "Christmas Figures (4 PLATES), 0.2mm layer",
     "profilePlates": 4,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 22.0
+        "grams": 22
       },
       {
         "material": "PLA",
-        "grams": 21.0
+        "grams": 21
       },
       {
         "material": "PLA",
-        "grams": 27.0
+        "grams": 27
       },
       {
         "material": "PLA",
-        "grams": 13.0
+        "grams": 13
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -2275,17 +2231,17 @@ const PRODUCTS = [
     "category": "gifts",
     "image": "images/J-109.webp",
     "creator": "littleprintlove",
-    "weightGrams": 20.0,
+    "weightGrams": 20,
     "profileName": "0.2mm layer, 2 walls, 15% infill",
     "profilePlates": 1,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 18.0
+        "grams": 18
       },
       {
         "material": "PLA",
-        "grams": 2.0
+        "grams": 2
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -2299,13 +2255,13 @@ const PRODUCTS = [
     "category": "gifts",
     "image": "images/J-110.webp",
     "creator": "LetHimPrint",
-    "weightGrams": 92.0,
+    "weightGrams": 92,
     "profileName": "Fuzzy Skin Christmas Ball // Hang & Stand",
     "profilePlates": 2,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 92.0
+        "grams": 92
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -2319,13 +2275,13 @@ const PRODUCTS = [
     "category": "gifts",
     "image": "images/J-111.webp",
     "creator": "SabreDesign",
-    "weightGrams": 91.0,
+    "weightGrams": 91,
     "profileName": "Nutcracker Ribbed",
     "profilePlates": 1,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 91.0
+        "grams": 91
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -2339,13 +2295,13 @@ const PRODUCTS = [
     "category": "gifts",
     "image": "images/J-112.webp",
     "creator": "FörsterSepp",
-    "weightGrams": 363.0,
+    "weightGrams": 363,
     "profileName": "Klein",
     "profilePlates": 4,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 363.0
+        "grams": 363
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -2359,13 +2315,13 @@ const PRODUCTS = [
     "category": "gifts",
     "image": "images/J-113.webp",
     "creator": "Biťo1",
-    "weightGrams": 397.0,
+    "weightGrams": 397,
     "profileName": "Atmospheric Christmas Figures – LED Tea Light Holders",
     "profilePlates": 1,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 397.0
+        "grams": 397
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -2379,13 +2335,13 @@ const PRODUCTS = [
     "category": "gifts",
     "image": "images/J-114.webp",
     "creator": "Cipriani 3Design Studio",
-    "weightGrams": 4.0,
+    "weightGrams": 4,
     "profileName": "0.2mm layer, 2 walls, 15% infill",
     "profilePlates": 1,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 4.0
+        "grams": 4
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -2399,21 +2355,21 @@ const PRODUCTS = [
     "category": "gifts",
     "image": "images/J-115.webp",
     "creator": "Urban Mix Studio",
-    "weightGrams": 352.0,
+    "weightGrams": 352,
     "profileName": "0.2mm layer, 3 walls, 15% infill",
     "profilePlates": 1,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 73.0
+        "grams": 73
       },
       {
         "material": "PLA",
-        "grams": 173.0
+        "grams": 173
       },
       {
         "material": "PLA",
-        "grams": 106.0
+        "grams": 106
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -2427,13 +2383,13 @@ const PRODUCTS = [
     "category": "gifts",
     "image": "images/J-116.png",
     "creator": "3D Print Fusion Lab",
-    "weightGrams": 15.0,
+    "weightGrams": 15,
     "profileName": "0.2mm layer, 2 walls, 8% infill",
     "profilePlates": 1,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 15.0
+        "grams": 15
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -2447,13 +2403,13 @@ const PRODUCTS = [
     "category": "gifts",
     "image": "images/J-117.webp",
     "creator": "DreamsLab3D",
-    "weightGrams": 47.0,
+    "weightGrams": 47,
     "profileName": "0.2mm layer, 2 walls, 15% infill",
     "profilePlates": 1,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 47.0
+        "grams": 47
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -2467,13 +2423,13 @@ const PRODUCTS = [
     "category": "gifts",
     "image": "images/J-118.webp",
     "creator": "miglo",
-    "weightGrams": 26.0,
+    "weightGrams": 26,
     "profileName": "0.2mm layer, 2 walls, 15% infill",
     "profilePlates": 1,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 26.0
+        "grams": 26
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -2487,13 +2443,13 @@ const PRODUCTS = [
     "category": "gifts",
     "image": "images/J-119.webp",
     "creator": "OrangeSs",
-    "weightGrams": 33.0,
+    "weightGrams": 33,
     "profileName": "A1 P1S P1P X1C",
     "profilePlates": 1,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 33.0
+        "grams": 33
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -2507,13 +2463,13 @@ const PRODUCTS = [
     "category": "gifts",
     "image": "images/J-120.webp",
     "creator": "LetHimPrint",
-    "weightGrams": 53.0,
+    "weightGrams": 53,
     "profileName": "Single Reindeer 125 mm – Crochet Xmas Reindeer",
     "profilePlates": 1,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 53.0
+        "grams": 53
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -2527,13 +2483,13 @@ const PRODUCTS = [
     "category": "gifts",
     "image": "images/J-121.webp",
     "creator": "vaclav.klich",
-    "weightGrams": 42.0,
+    "weightGrams": 42,
     "profileName": "0.2mm layer, 2 walls, 15% infill",
     "profilePlates": 1,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 42.0
+        "grams": 42
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -2547,13 +2503,13 @@ const PRODUCTS = [
     "category": "gifts",
     "image": "images/J-122.webp",
     "creator": "WorldOfLayers",
-    "weightGrams": 37.0,
+    "weightGrams": 37,
     "profileName": "0.2mm layer, 2 walls, 10% infill",
     "profilePlates": 1,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 37.0
+        "grams": 37
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -2567,13 +2523,13 @@ const PRODUCTS = [
     "category": "gifts",
     "image": "images/J-123.webp",
     "creator": "risi_enma",
-    "weightGrams": 16.0,
+    "weightGrams": 16,
     "profileName": "0.16mm layer, 2 walls, 15% infill",
     "profilePlates": 3,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 16.0
+        "grams": 16
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -2587,13 +2543,13 @@ const PRODUCTS = [
     "category": "gifts",
     "image": "images/J-124.webp",
     "creator": "3D engineering & decoration",
-    "weightGrams": 39.0,
+    "weightGrams": 39,
     "profileName": "0.2mm layer, 2 walls, 15% infill",
     "profilePlates": 3,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 39.0
+        "grams": 39
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -2607,25 +2563,25 @@ const PRODUCTS = [
     "category": "gifts",
     "image": "images/J-125.webp",
     "creator": "Maxx Design",
-    "weightGrams": 97.0,
+    "weightGrams": 97,
     "profileName": "Top Hat",
     "profilePlates": 4,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 49.0
+        "grams": 49
       },
       {
         "material": "PLA",
-        "grams": 12.0
+        "grams": 12
       },
       {
         "material": "PLA",
-        "grams": 10.0
+        "grams": 10
       },
       {
         "material": "PLA",
-        "grams": 26.0
+        "grams": 26
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -2639,13 +2595,13 @@ const PRODUCTS = [
     "category": "gifts",
     "image": "images/J-126.webp",
     "creator": "Tommy_druckt!",
-    "weightGrams": 89.0,
+    "weightGrams": 89,
     "profileName": "0.2mm layer, 2 walls, 15% infill",
     "profilePlates": 3,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 89.0
+        "grams": 89
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -2659,13 +2615,13 @@ const PRODUCTS = [
     "category": "gifts",
     "image": "images/J-127.webp",
     "creator": "SabreDesign",
-    "weightGrams": 21.0,
+    "weightGrams": 21,
     "profileName": "Reindeer 135 mm",
     "profilePlates": 1,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 21.0
+        "grams": 21
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -2679,21 +2635,21 @@ const PRODUCTS = [
     "category": "gifts",
     "image": "images/J-128.webp",
     "creator": "LetHimPrint",
-    "weightGrams": 57.0,
+    "weightGrams": 57,
     "profileName": "Knitted Hanging Christmas Star – 3 Sizes",
     "profilePlates": 3,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 19.0
+        "grams": 19
       },
       {
         "material": "PLA",
-        "grams": 24.0
+        "grams": 24
       },
       {
         "material": "PLA",
-        "grams": 14.0
+        "grams": 14
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -2707,13 +2663,13 @@ const PRODUCTS = [
     "category": "gifts",
     "image": "images/J-129.webp",
     "creator": "Sculturissimo3D",
-    "weightGrams": 62.0,
+    "weightGrams": 62,
     "profileName": "0.16mm layer, 2 walls, 15% infill",
     "profilePlates": 1,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 62.0
+        "grams": 62
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -2727,13 +2683,13 @@ const PRODUCTS = [
     "category": "gifts",
     "image": "images/J-130.webp",
     "creator": "Cosa_93",
-    "weightGrams": 257.0,
+    "weightGrams": 257,
     "profileName": "0.12mm layer, 2 walls, 15% infill",
     "profilePlates": 1,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 257.0
+        "grams": 257
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -2747,25 +2703,25 @@ const PRODUCTS = [
     "category": "gifts",
     "image": "images/J-131.webp",
     "creator": "Wickieprints",
-    "weightGrams": 9.0,
+    "weightGrams": 9,
     "profileName": "0.08mm layer, 2 walls, 15% infill",
     "profilePlates": 1,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 4.0
+        "grams": 4
       },
       {
         "material": "PLA",
-        "grams": 1.0
+        "grams": 1
       },
       {
         "material": "PLA",
-        "grams": 2.0
+        "grams": 2
       },
       {
         "material": "PLA",
-        "grams": 2.0
+        "grams": 2
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -2779,13 +2735,13 @@ const PRODUCTS = [
     "category": "gifts",
     "image": "images/J-132.webp",
     "creator": "Deltaprints",
-    "weightGrams": 40.0,
+    "weightGrams": 40,
     "profileName": "0.16mm layer, 3 walls, 15% infill",
     "profilePlates": 1,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 40.0
+        "grams": 40
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -2799,25 +2755,25 @@ const PRODUCTS = [
     "category": "gifts",
     "image": "images/J-133.webp",
     "creator": "Dano98",
-    "weightGrams": 200.0,
+    "weightGrams": 200,
     "profileName": "Original - 2 Gnomes",
     "profilePlates": 8,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 112.0
+        "grams": 112
       },
       {
         "material": "PLA",
-        "grams": 65.0
+        "grams": 65
       },
       {
         "material": "PLA",
-        "grams": 6.0
+        "grams": 6
       },
       {
         "material": "PLA",
-        "grams": 17.0
+        "grams": 17
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -2831,13 +2787,13 @@ const PRODUCTS = [
     "category": "gifts",
     "image": "images/J-134.webp",
     "creator": "3dprimolayer",
-    "weightGrams": 27.0,
+    "weightGrams": 27,
     "profileName": "0.2mm layer, 2 walls, 15% infill",
     "profilePlates": 1,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 27.0
+        "grams": 27
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -2851,13 +2807,13 @@ const PRODUCTS = [
     "category": "gifts",
     "image": "images/J-135.webp",
     "creator": "Biťo1",
-    "weightGrams": 131.0,
+    "weightGrams": 131,
     "profileName": "Elegant Christmas Ornaments",
     "profilePlates": 5,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 131.0
+        "grams": 131
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -2871,17 +2827,17 @@ const PRODUCTS = [
     "category": "gifts",
     "image": "images/J-136.webp",
     "creator": "rauloko11500",
-    "weightGrams": 13.0,
+    "weightGrams": 13,
     "profileName": "0.2mm layer, 2 walls, 15% infill",
     "profilePlates": 1,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 6.0
+        "grams": 6
       },
       {
         "material": "PLA",
-        "grams": 7.0
+        "grams": 7
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -2895,13 +2851,13 @@ const PRODUCTS = [
     "category": "gifts",
     "image": "images/J-137.webp",
     "creator": "SabreDesign",
-    "weightGrams": 13.0,
+    "weightGrams": 13,
     "profileName": "Tree ornament",
     "profilePlates": 1,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 13.0
+        "grams": 13
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -2915,13 +2871,13 @@ const PRODUCTS = [
     "category": "gifts",
     "image": "images/J-138.webp",
     "creator": "m3nDes.creations",
-    "weightGrams": 46.0,
+    "weightGrams": 46,
     "profileName": "0.2mm layer, 2 walls, 15% infill",
     "profilePlates": 1,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 46.0
+        "grams": 46
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -2935,13 +2891,13 @@ const PRODUCTS = [
     "category": "gifts",
     "image": "images/J-139.webp",
     "creator": "DQM1N1K",
-    "weightGrams": 24.0,
+    "weightGrams": 24,
     "profileName": "Nativity scene",
     "profilePlates": 1,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 24.0
+        "grams": 24
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -2955,25 +2911,25 @@ const PRODUCTS = [
     "category": "gifts",
     "image": "images/J-140.webp",
     "creator": "Jone 3D Design",
-    "weightGrams": 242.0,
+    "weightGrams": 242,
     "profileName": "0.2mm layer, 2 walls, 5% infill, AMS",
     "profilePlates": 1,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 148.0
+        "grams": 148
       },
       {
         "material": "PLA",
-        "grams": 75.0
+        "grams": 75
       },
       {
         "material": "PLA",
-        "grams": 12.0
+        "grams": 12
       },
       {
         "material": "PLA",
-        "grams": 7.0
+        "grams": 7
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -2987,13 +2943,13 @@ const PRODUCTS = [
     "category": "gifts",
     "image": "images/J-141.webp",
     "creator": "The Filming Tinkerer",
-    "weightGrams": 47.0,
+    "weightGrams": 47,
     "profileName": "0.16mm layer, 1 walls, 10% infill",
     "profilePlates": 1,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 47.0
+        "grams": 47
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -3007,13 +2963,13 @@ const PRODUCTS = [
     "category": "gifts",
     "image": "images/J-142.webp",
     "creator": "jdormer9",
-    "weightGrams": 24.0,
+    "weightGrams": 24,
     "profileName": "Mix (14x) 0.16mm layer, 2 walls, 15% infill",
     "profilePlates": 1,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 24.0
+        "grams": 24
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -3027,13 +2983,13 @@ const PRODUCTS = [
     "category": "gifts",
     "image": "images/J-143.webp",
     "creator": "NowCraft3D",
-    "weightGrams": 40.0,
+    "weightGrams": 40,
     "profileName": "with star no supports 0.2mm layer, 2 walls, 5% infill",
     "profilePlates": 2,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 40.0
+        "grams": 40
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -3047,21 +3003,21 @@ const PRODUCTS = [
     "category": "gifts",
     "image": "images/J-144.webp",
     "creator": "KurLDesigns",
-    "weightGrams": 58.0,
+    "weightGrams": 58,
     "profileName": "0.2mm layer, 2 walls, 15% infill",
     "profilePlates": 1,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 43.0
+        "grams": 43
       },
       {
         "material": "PLA",
-        "grams": 8.0
+        "grams": 8
       },
       {
         "material": "PLA",
-        "grams": 7.0
+        "grams": 7
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -3075,25 +3031,25 @@ const PRODUCTS = [
     "category": "gifts",
     "image": "images/J-145.webp",
     "creator": "A-E-D 3D-DRUCK",
-    "weightGrams": 477.0,
+    "weightGrams": 477,
     "profileName": "0.2mm layer, 2 walls, 15% infill",
     "profilePlates": 11,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 5.0
+        "grams": 5
       },
       {
         "material": "PLA",
-        "grams": 217.0
+        "grams": 217
       },
       {
         "material": "PLA",
-        "grams": 175.0
+        "grams": 175
       },
       {
         "material": "PLA",
-        "grams": 80.0
+        "grams": 80
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -3107,25 +3063,25 @@ const PRODUCTS = [
     "category": "gifts",
     "image": "images/J-146.webp",
     "creator": "h3li0",
-    "weightGrams": 162.0,
+    "weightGrams": 162,
     "profileName": "ornaments • 4 design options",
     "profilePlates": 5,
     "profileMaterials": [
       {
         "material": "PETG",
-        "grams": 14.0
+        "grams": 14
       },
       {
         "material": "PLA",
-        "grams": 74.0
+        "grams": 74
       },
       {
         "material": "PLA",
-        "grams": 37.0
+        "grams": 37
       },
       {
         "material": "PLA",
-        "grams": 37.0
+        "grams": 37
       }
     ],
     "weightNeedsPlaCheck": true,
@@ -3139,17 +3095,17 @@ const PRODUCTS = [
     "category": "gifts",
     "image": "images/J-147.webp",
     "creator": "ML Designe",
-    "weightGrams": 140.0,
+    "weightGrams": 140,
     "profileName": "For A1/P1/X1",
     "profilePlates": 2,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 70.0
+        "grams": 70
       },
       {
         "material": "PLA",
-        "grams": 70.0
+        "grams": 70
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -3163,17 +3119,17 @@ const PRODUCTS = [
     "category": "gifts",
     "image": "images/J-148.webp",
     "creator": "SabreDesign",
-    "weightGrams": 76.0,
+    "weightGrams": 76,
     "profileName": "Japandi Ball 70 mm",
     "profilePlates": 2,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 49.0
+        "grams": 49
       },
       {
         "material": "PLA",
-        "grams": 27.0
+        "grams": 27
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -3187,13 +3143,13 @@ const PRODUCTS = [
     "category": "gifts",
     "image": "images/J-149.webp",
     "creator": "GulagHias",
-    "weightGrams": 252.0,
+    "weightGrams": 252,
     "profileName": "Tealight Village several plates",
     "profilePlates": 5,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 252.0
+        "grams": 252
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -3207,25 +3163,25 @@ const PRODUCTS = [
     "category": "gifts",
     "image": "images/J-150.webp",
     "creator": "novYTerra🌿",
-    "weightGrams": 139.0,
+    "weightGrams": 139,
     "profileName": "A1 - 0.2mm layer, 2 walls, 4% infill",
     "profilePlates": 2,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 20.0
+        "grams": 20
       },
       {
         "material": "PLA",
-        "grams": 17.0
+        "grams": 17
       },
       {
         "material": "PLA",
-        "grams": 98.0
+        "grams": 98
       },
       {
         "material": "PLA",
-        "grams": 4.0
+        "grams": 4
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -3239,21 +3195,21 @@ const PRODUCTS = [
     "category": "gifts",
     "image": "images/J-151.webp",
     "creator": "Hockey Dad",
-    "weightGrams": 17.0,
+    "weightGrams": 17,
     "profileName": "Bauble 0.08mm layer, 2 walls, 100% infill",
     "profilePlates": 1,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 3.0
+        "grams": 3
       },
       {
         "material": "PLA",
-        "grams": 5.0
+        "grams": 5
       },
       {
         "material": "PLA",
-        "grams": 9.0
+        "grams": 9
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -3267,13 +3223,13 @@ const PRODUCTS = [
     "category": "gifts",
     "image": "images/J-152.webp",
     "creator": "Hatch_3D",
-    "weightGrams": 129.0,
+    "weightGrams": 129,
     "profileName": "Child decorating the tree",
     "profilePlates": 1,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 129.0
+        "grams": 129
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -3287,21 +3243,21 @@ const PRODUCTS = [
     "category": "gifts",
     "image": "images/J-153.webp",
     "creator": "Maxx Design",
-    "weightGrams": 68.0,
+    "weightGrams": 68,
     "profileName": "Multi Color with AMS",
     "profilePlates": 3,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 42.0
+        "grams": 42
       },
       {
         "material": "PLA",
-        "grams": 2.0
+        "grams": 2
       },
       {
         "material": "PLA",
-        "grams": 24.0
+        "grams": 24
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -3315,13 +3271,13 @@ const PRODUCTS = [
     "category": "gifts",
     "image": "images/J-154.webp",
     "creator": "FörsterSepp",
-    "weightGrams": 666.0,
+    "weightGrams": 666,
     "profileName": "Standard",
     "profilePlates": 2,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 666.0
+        "grams": 666
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -3335,17 +3291,17 @@ const PRODUCTS = [
     "category": "gifts",
     "image": "images/J-155.webp",
     "creator": "Sebo3D",
-    "weightGrams": 14.0,
+    "weightGrams": 14,
     "profileName": "0.08mm layer, 2 walls, 100% infill",
     "profilePlates": 1,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 4.0
+        "grams": 4
       },
       {
         "material": "PLA",
-        "grams": 10.0
+        "grams": 10
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -3359,13 +3315,13 @@ const PRODUCTS = [
     "category": "gifts",
     "image": "images/J-156.webp",
     "creator": "Craftastic",
-    "weightGrams": 7.0,
+    "weightGrams": 7,
     "profileName": "0.2mm layer, 2 walls, 15% infill",
     "profilePlates": 1,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 7.0
+        "grams": 7
       }
     ],
     "weightNeedsPlaCheck": false,
@@ -3379,13 +3335,13 @@ const PRODUCTS = [
     "category": "gifts",
     "image": "images/J-157.webp",
     "creator": "Goomol DIY",
-    "weightGrams": 24.0,
+    "weightGrams": 24,
     "profileName": "Angel girl ornament 0.2mm layer, 2 walls, 15% infill",
     "profilePlates": 1,
     "profileMaterials": [
       {
         "material": "PLA",
-        "grams": 24.0
+        "grams": 24
       }
     ],
     "weightNeedsPlaCheck": false,
