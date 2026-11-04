@@ -1,4 +1,4 @@
-/* Vikt och pris avser hela den angivna utskriftsprofilen. Källänkar sparas separat lokalt. */
+/* Källänkar sparas separat lokalt. */
 const PRODUCTS = [
   {
     "sku": "H-101",
@@ -1022,7 +1022,9 @@ const PRODUCTS = [
     ],
     "weightNeedsPlaCheck": false,
     "weightCheckedDate": "2026-11-02",
-    "margin": 0.5
+    "margin": 0.5,
+    "giftEligible": true,
+    "giftOrder": 100
   },
   {
     "sku": "B-102",
@@ -1042,7 +1044,9 @@ const PRODUCTS = [
     ],
     "weightNeedsPlaCheck": false,
     "weightCheckedDate": "2026-11-02",
-    "margin": 0.5
+    "margin": 0.5,
+    "giftEligible": true,
+    "giftOrder": 101
   },
   {
     "sku": "B-103",
@@ -1062,7 +1066,9 @@ const PRODUCTS = [
     ],
     "weightNeedsPlaCheck": false,
     "weightCheckedDate": "2026-11-02",
-    "margin": 0.5
+    "margin": 0.5,
+    "giftEligible": true,
+    "giftOrder": 102
   },
   {
     "sku": "B-104",
@@ -1122,7 +1128,9 @@ const PRODUCTS = [
     ],
     "weightNeedsPlaCheck": false,
     "weightCheckedDate": "2026-11-02",
-    "margin": 0.5
+    "margin": 0.5,
+    "giftEligible": true,
+    "giftOrder": 103
   },
   {
     "sku": "B-107",
@@ -1142,12 +1150,14 @@ const PRODUCTS = [
     ],
     "weightNeedsPlaCheck": false,
     "weightCheckedDate": "2026-11-02",
-    "margin": 0.5
+    "margin": 0.5,
+    "giftEligible": true,
+    "giftOrder": 104
   },
   {
     "sku": "B-108",
     "name": "Ultimate Oval Triple Spin Fidget (Print in Place)",
-    "price": 800,
+    "price": 1000,
     "category": "kids",
     "image": "images/B-108.webp",
     "creator": "AbyssalCactus",
@@ -1162,7 +1172,9 @@ const PRODUCTS = [
     ],
     "weightNeedsPlaCheck": false,
     "weightCheckedDate": "2026-11-02",
-    "margin": 0.5
+    "margin": 0.5,
+    "giftEligible": true,
+    "giftOrder": 105
   },
   {
     "sku": "B-109",
@@ -1187,7 +1199,7 @@ const PRODUCTS = [
   {
     "sku": "B-110",
     "name": "Small Spiral Fidget",
-    "price": 320,
+    "price": 1000,
     "category": "kids",
     "image": "images/B-110.webp",
     "creator": "Dominator Ivy",
@@ -1202,7 +1214,9 @@ const PRODUCTS = [
     ],
     "weightNeedsPlaCheck": false,
     "weightCheckedDate": "2026-11-02",
-    "margin": 0.5
+    "margin": 0.5,
+    "giftEligible": true,
+    "giftOrder": 106
   },
   {
     "sku": "B-111",
@@ -1222,7 +1236,9 @@ const PRODUCTS = [
     ],
     "weightNeedsPlaCheck": false,
     "weightCheckedDate": "2026-11-02",
-    "margin": 0.5
+    "margin": 0.5,
+    "giftEligible": true,
+    "giftOrder": 107
   },
   {
     "sku": "B-112",
@@ -1286,7 +1302,9 @@ const PRODUCTS = [
     ],
     "weightNeedsPlaCheck": false,
     "weightCheckedDate": "2026-11-02",
-    "margin": 0.5
+    "margin": 0.5,
+    "giftEligible": true,
+    "giftOrder": 108
   },
   {
     "sku": "B-115",
@@ -1330,7 +1348,9 @@ const PRODUCTS = [
     ],
     "weightNeedsPlaCheck": false,
     "weightCheckedDate": "2026-11-02",
-    "margin": 0.5
+    "margin": 0.5,
+    "giftEligible": true,
+    "giftOrder": 109
   },
   {
     "sku": "B-117",
@@ -1375,7 +1395,7 @@ const PRODUCTS = [
   {
     "sku": "B-119",
     "name": "Easy to print Fidget Free to sell",
-    "price": 720,
+    "price": 1000,
     "category": "kids",
     "image": "images/B-119.webp",
     "creator": "LangHjornArt",
@@ -1390,7 +1410,9 @@ const PRODUCTS = [
     ],
     "weightNeedsPlaCheck": false,
     "weightCheckedDate": "2026-11-02",
-    "margin": 0.5
+    "margin": 0.5,
+    "giftEligible": true,
+    "giftOrder": 110
   },
   {
     "sku": "B-120",
@@ -1410,7 +1432,9 @@ const PRODUCTS = [
     ],
     "weightNeedsPlaCheck": false,
     "weightCheckedDate": "2026-11-02",
-    "margin": 0.5
+    "margin": 0.5,
+    "giftEligible": true,
+    "giftOrder": 111
   },
   {
     "sku": "B-121",
@@ -1450,7 +1474,9 @@ const PRODUCTS = [
     ],
     "weightNeedsPlaCheck": false,
     "weightCheckedDate": "2026-11-02",
-    "margin": 0.5
+    "margin": 0.5,
+    "giftEligible": true,
+    "giftOrder": 112
   },
   {
     "sku": "B-123",
@@ -1494,7 +1520,9 @@ const PRODUCTS = [
     ],
     "weightNeedsPlaCheck": false,
     "weightCheckedDate": "2026-11-02",
-    "margin": 0.5
+    "margin": 0.5,
+    "giftEligible": true,
+    "giftOrder": 113
   },
   {
     "sku": "B-125",
@@ -1514,12 +1542,14 @@ const PRODUCTS = [
     ],
     "weightNeedsPlaCheck": false,
     "weightCheckedDate": "2026-11-02",
-    "margin": 0.5
+    "margin": 0.5,
+    "giftEligible": true,
+    "giftOrder": 114
   },
   {
     "sku": "B-126",
     "name": "Cheese fidget clicker MX switch keychain - 5 grams",
-    "price": 400,
+    "price": 1000,
     "category": "kids",
     "image": "images/B-126.webp",
     "creator": "Eris",
@@ -1559,7 +1589,7 @@ const PRODUCTS = [
   {
     "sku": "B-128",
     "name": "Fidget Click Keychain - Print in Place - 15 min",
-    "price": 400,
+    "price": 1000,
     "category": "kids",
     "image": "images/B-128.webp",
     "creator": "Louis",
@@ -1574,12 +1604,14 @@ const PRODUCTS = [
     ],
     "weightNeedsPlaCheck": false,
     "weightCheckedDate": "2026-11-02",
-    "margin": 0.5
+    "margin": 0.5,
+    "giftEligible": true,
+    "giftOrder": 115
   },
   {
     "sku": "B-129",
     "name": "Fidget Flick Boba Tea - Print in place!",
-    "price": 960,
+    "price": 1000,
     "category": "kids",
     "image": "images/B-129.webp",
     "creator": "CYBZoo3d",
@@ -1598,7 +1630,9 @@ const PRODUCTS = [
     ],
     "weightNeedsPlaCheck": false,
     "weightCheckedDate": "2026-11-02",
-    "margin": 0.5
+    "margin": 0.5,
+    "giftEligible": true,
+    "giftOrder": 116
   },
   {
     "sku": "B-130",
@@ -1698,7 +1732,9 @@ const PRODUCTS = [
     ],
     "weightNeedsPlaCheck": false,
     "weightCheckedDate": "2026-11-02",
-    "margin": 0.5
+    "margin": 0.5,
+    "giftEligible": true,
+    "giftOrder": 117
   },
   {
     "sku": "B-135",
@@ -1747,7 +1783,7 @@ const PRODUCTS = [
   {
     "sku": "B-137",
     "name": "Click Click Thumb Spin Fidget",
-    "price": 960,
+    "price": 1000,
     "category": "kids",
     "image": "images/B-137.webp",
     "creator": "Eternity Labs",
@@ -1811,7 +1847,7 @@ const PRODUCTS = [
   {
     "sku": "B-140",
     "name": "Pocket Link Fidget - Print in Place",
-    "price": 560,
+    "price": 1000,
     "category": "kids",
     "image": "images/B-140.jpg",
     "creator": "VirtuBOB",
@@ -1910,7 +1946,9 @@ const PRODUCTS = [
     ],
     "weightNeedsPlaCheck": false,
     "weightCheckedDate": "2026-11-02",
-    "margin": 0.5
+    "margin": 0.5,
+    "giftEligible": true,
+    "giftOrder": 118
   },
   {
     "sku": "B-145",
@@ -1998,7 +2036,9 @@ const PRODUCTS = [
     ],
     "weightNeedsPlaCheck": false,
     "weightCheckedDate": "2026-11-02",
-    "margin": 0.5
+    "margin": 0.5,
+    "giftEligible": true,
+    "giftOrder": 119
   },
   {
     "sku": "B-149",
@@ -2331,7 +2371,7 @@ const PRODUCTS = [
   {
     "sku": "J-114",
     "name": "Mini Christmas Ornament Elegant Ribbed Design",
-    "price": 320,
+    "price": 1000,
     "category": "gifts",
     "image": "images/J-114.webp",
     "creator": "Cipriani 3Design Studio",
@@ -2699,7 +2739,7 @@ const PRODUCTS = [
   {
     "sku": "J-131",
     "name": "Christmas village bauble/ornament",
-    "price": 720,
+    "price": 1000,
     "category": "gifts",
     "image": "images/J-131.webp",
     "creator": "Wickieprints",
@@ -3311,7 +3351,7 @@ const PRODUCTS = [
   {
     "sku": "J-156",
     "name": "Wreath-Shaped Photo Frame Ornament  Snap-Fit",
-    "price": 560,
+    "price": 1000,
     "category": "gifts",
     "image": "images/J-156.webp",
     "creator": "Craftastic",
@@ -3347,6 +3387,270 @@ const PRODUCTS = [
     "weightNeedsPlaCheck": false,
     "weightCheckedDate": "2026-11-02",
     "margin": 0.5
+  },
+  {
+    "sku": "J-158",
+    "name": "Snurrande bajsemoji",
+    "originalName": "Twisty Turd - Poop Emoji",
+    "price": 7200,
+    "category": "gifts",
+    "image": "images/J-158.jpg",
+    "creator": "Toddy's Trinkets",
+    "weightGrams": 90,
+    "profileName": "1 Color, 0.2mm, 2 Ws, 7.5% Inf",
+    "profilePlates": 1,
+    "profileMaterials": [
+      {
+        "material": "PLA",
+        "grams": 90
+      }
+    ],
+    "weightNeedsPlaCheck": false,
+    "weightCheckedDate": "2026-11-04",
+    "margin": 0.5,
+    "giftOrder": 0
+  },
+  {
+    "sku": "J-159",
+    "name": "Minibajs – liten skämtfigur",
+    "originalName": "Mini Poop",
+    "price": 1000,
+    "category": "gifts",
+    "image": "images/J-159.webp",
+    "creator": "Velus",
+    "weightGrams": 1,
+    "profileName": "One Color-NO AMS",
+    "profilePlates": 1,
+    "profileMaterials": [
+      {
+        "material": "PLA",
+        "grams": 1
+      }
+    ],
+    "weightNeedsPlaCheck": false,
+    "weightCheckedDate": "2026-11-04",
+    "margin": 0.5,
+    "giftOrder": 1
+  },
+  {
+    "sku": "J-160",
+    "name": "Bajskorvar – skämtpaket",
+    "originalName": "Fake Poop Pack",
+    "price": 4640,
+    "category": "gifts",
+    "image": "images/J-160.webp",
+    "creator": "BODY3D",
+    "weightGrams": 58,
+    "profileName": "0.2mm layer, 2 walls, 15% infill",
+    "profilePlates": 1,
+    "profileMaterials": [
+      {
+        "material": "PLA",
+        "grams": 58
+      }
+    ],
+    "weightNeedsPlaCheck": false,
+    "weightCheckedDate": "2026-11-04",
+    "margin": 0.5,
+    "giftOrder": 2
+  },
+  {
+    "sku": "J-161",
+    "name": "Leende bajsemoji – nyckelring",
+    "originalName": "Smiling poop - 1.5g with key-chain. Fast print!",
+    "price": 1000,
+    "category": "gifts",
+    "image": "images/J-161.webp",
+    "creator": "E.T prints",
+    "weightGrams": 2,
+    "profileName": "Small - 1.5 g",
+    "profilePlates": 1,
+    "profileMaterials": [
+      {
+        "material": "PLA",
+        "grams": 2
+      }
+    ],
+    "weightNeedsPlaCheck": false,
+    "weightCheckedDate": "2026-11-04",
+    "margin": 0.5,
+    "giftOrder": 3
+  },
+  {
+    "sku": "J-162",
+    "name": "Smiley och Smile – nyckelringsset",
+    "originalName": "Smile Keychain – Smiley Pendant",
+    "price": 2880,
+    "category": "gifts",
+    "image": "images/J-162.webp",
+    "creator": "Hey it‘s Sara",
+    "weightGrams": 36,
+    "profileName": "AMS required",
+    "profilePlates": 3,
+    "profileMaterials": [
+      {
+        "material": "PLA",
+        "grams": 26
+      },
+      {
+        "material": "PLA",
+        "grams": 10
+      }
+    ],
+    "weightNeedsPlaCheck": false,
+    "weightCheckedDate": "2026-11-04",
+    "margin": 0.5,
+    "giftOrder": 4
+  },
+  {
+    "sku": "J-163",
+    "name": "Leende emoji – dekoration och nyckelring",
+    "originalName": "Smiling emoji - decor - keychain",
+    "price": 16720,
+    "category": "gifts",
+    "image": "images/J-163.webp",
+    "creator": "Reybrond",
+    "weightGrams": 209,
+    "profileName": "0.16mm layer, 2 walls, 15% infill",
+    "profilePlates": 1,
+    "profileMaterials": [
+      {
+        "material": "PLA",
+        "grams": 20
+      },
+      {
+        "material": "PLA",
+        "grams": 113
+      },
+      {
+        "material": "PLA",
+        "grams": 56
+      },
+      {
+        "material": "PLA",
+        "grams": 20
+      }
+    ],
+    "weightNeedsPlaCheck": false,
+    "weightCheckedDate": "2026-11-04",
+    "margin": 0.5,
+    "giftOrder": 5
+  },
+  {
+    "sku": "J-164",
+    "name": "Ledbar anka – profilpaket",
+    "originalName": "Articulated Duck - Strong Joints",
+    "price": 22800,
+    "category": "gifts",
+    "image": "images/J-164.webp",
+    "creator": "Art Design. 3D",
+    "weightGrams": 285,
+    "profileName": "Duck - All in One",
+    "profilePlates": 8,
+    "profileMaterials": [
+      {
+        "material": "PLA",
+        "grams": 171
+      },
+      {
+        "material": "PLA",
+        "grams": 52
+      },
+      {
+        "material": "PLA",
+        "grams": 26
+      },
+      {
+        "material": "PLA",
+        "grams": 36
+      }
+    ],
+    "weightNeedsPlaCheck": false,
+    "weightCheckedDate": "2026-11-04",
+    "margin": 0.5,
+    "giftOrder": 6
+  },
+  {
+    "sku": "J-165",
+    "name": "Liten ledbar anka",
+    "originalName": "Tiny Duck - Articulated",
+    "price": 2960,
+    "category": "gifts",
+    "image": "images/J-165.webp",
+    "creator": "Bodoke",
+    "weightGrams": 37,
+    "profileName": "Multicolor Print Profile 0.20mm",
+    "profilePlates": 1,
+    "profileMaterials": [
+      {
+        "material": "PLA",
+        "grams": 26
+      },
+      {
+        "material": "PLA",
+        "grams": 7
+      },
+      {
+        "material": "PLA",
+        "grams": 4
+      }
+    ],
+    "weightNeedsPlaCheck": false,
+    "weightCheckedDate": "2026-11-04",
+    "margin": 0.5,
+    "giftOrder": 7
+  },
+  {
+    "sku": "J-166",
+    "name": "Muskelanka – rolig figur",
+    "originalName": "Muscular Rubber Duck funny toy",
+    "price": 3600,
+    "category": "gifts",
+    "image": "images/J-166.webp",
+    "creator": "FabLab_ee",
+    "weightGrams": 45,
+    "profileName": "SingleColor_111mm_Duck_0.12mm",
+    "profilePlates": 1,
+    "profileMaterials": [
+      {
+        "material": "PLA",
+        "grams": 45
+      }
+    ],
+    "weightNeedsPlaCheck": false,
+    "weightCheckedDate": "2026-11-04",
+    "margin": 0.5,
+    "giftOrder": 8
+  },
+  {
+    "sku": "J-167",
+    "name": "Arg minianka – figur och nyckelring",
+    "originalName": "Mini Angry Standing Duck - Desk Buddy & Keychain",
+    "price": 6080,
+    "category": "gifts",
+    "image": "images/J-167.webp",
+    "creator": "3DM",
+    "weightGrams": 76,
+    "profileName": "Mini Standing Duck-AMS",
+    "profilePlates": 1,
+    "profileMaterials": [
+      {
+        "material": "PLA",
+        "grams": 42
+      },
+      {
+        "material": "PLA",
+        "grams": 27
+      },
+      {
+        "material": "PLA",
+        "grams": 7
+      }
+    ],
+    "weightNeedsPlaCheck": false,
+    "weightCheckedDate": "2026-11-04",
+    "margin": 0.5,
+    "giftOrder": 9
   }
 ];
 if(typeof module!=="undefined") module.exports=PRODUCTS;
